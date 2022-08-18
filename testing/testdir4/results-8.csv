@@ -1,0 +1,16 @@
+document	wordcount	fl-word tokens (cons.)	fl-density (cons.)	fl-types (uncons.)	fl-tokens (uncons.)	TTR (uncons.)	fl-types (cons.)	fl-tokens (cons.)	TTR (cons.)
+01_A3_EC3_2014_VZX_adj_adj.txt	469	18	.038379	7	9	.777	4	4	1.000
+01_A3_EC3_2014_WUV_adj_adj.txt	351	13	.037037	5	5	1.000	3	3	1.000
+01_A3_EC3_2014_XBV_adj_adj.txt	411	18	.043795	7	7	1.000	4	4	1.000
+01_A3_EC3_2014_YQS_adj_adj.txt	398	17	.042713	8	10	.800	3	4	.750
+02_A3_EC3_2014_BBR_adj_adj.txt	359	11	.030640	5	5	1.000	3	3	1.000
+02_A3_EC3_2014_EPP_adj_adj.txt	450	16	.035555	6	6	1.000	4	4	1.000
+02_A3_EC3_2014_HKE_adj_adj.txt	422	20	.047393	10	13	.769	4	4	1.000
+02_A3_EC3_2014_QKD_adj_adj.txt	235	14	.059574	4	7	.571	3	4	.750
+02_A3_EC3_2014_RAQ_adj_adj.txt	352	21	.059659	8	8	1.000	5	5	1.000
+02_A3_EC3_2014_SHU_adj_adj.txt	629	27	.042925	13	16	.812	6	6	1.000
+02_A3_EC3_2014_TVY_adj_adj.txt	337	13	.038575	5	5	1.000	3	3	1.000
+02_A3_EC3_2014_VHA_adj_adj.txt	201	16	.079601	7	7	1.000	4	4	1.000
+02_A3_EC3_2014_XTU_adj_adj.txt	464	11	.023706	4	4	1.000	3	3	1.000
+02_A3_EC3_2014_XVH_adj_adj.txt	330	11	.033333	5	5	1.000	3	3	1.000
+02_A3_EC3_2014_ZUV_adj_adj.txt	305	16	.052459	8	8	1.000	3	3	1.000

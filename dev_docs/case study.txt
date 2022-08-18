@@ -1,0 +1,90 @@
+case study: 08_test_EC6_2015_XZZ.txt
+
+
+'w' mode output:
+================
+processing 08_test_EC6_2015_XZZ.txt
+Processing /var/folders/fr/1kpb3hz536lfnpqz7x_z4zkm0000gn/T/fldensityXXX.QllT7UNj/fls.txt ...
+Processing complete.
+--------- final tallies: 1015 non-fl word tokens, 62 fl-word tokens, 14 fl-tokens, 12 fl-types -------
+
+document	wordcount	fl-words (consolidated)	fl-density (consolidated)	fl-types (uncons.)	fl-tokens (uncons.)	TTR (uncons.)	fl-types (cons.)	fl-tokens (cons.)	TTR (cons.)
+08_test_EC6_2015_XZZ.txt	1023	62	.060606	25	31	.806	12	14	.857
+
+results.csv:
+08_test_EC6_2015_XZZ.txt	1023	62	0.060606	25	31	0.806	12	14	0.857
+
+
+fl-density.sh -D output:
+========================
+[selected lines]
+__is_very_serious_problem__	formulaic (4 words)
+--------- intermediate tallies: 29 non-fl word tokens, 4 fl-word tokens, 1 fl-tokens -------
+__is_very_serious_problem__	formulaic (4 words)
+__means_that_there_are_not_enough__	formulaic (6 words)
+--------- intermediate tallies: 117 non-fl word tokens, 14 fl-word tokens, 3 fl-tokens -------
+__of_this_problem__	formulaic (3 words)
+--------- intermediate tallies: 236 non-fl word tokens, 17 fl-word tokens, 4 fl-tokens -------
+__this_reason_it_is_important_to__	formulaic (6 words)
+__of_this_problem__	formulaic (3 words)
+__this_essay_will_focus_on_one__	formulaic (6 words)
+__solution_to_this_problem__	formulaic (4 words)
+--------- intermediate tallies: 352 non-fl word tokens, 36 fl-word tokens, 8 fl-tokens -------
+__it_is_difficult_for__	formulaic (4 words)
+--------- intermediate tallies: 501 non-fl word tokens, 40 fl-word tokens, 9 fl-tokens -------
+__there_are_not_enough__	formulaic (4 words)
+--------- intermediate tallies: 530 non-fl word tokens, 44 fl-word tokens, 10 fl-tokens -------
+__afford_to_ignore__	formulaic (3 words)
+__essay_has_discussed_one_main_cause_of_the__	formulaic (8 words)
+--------- intermediate tallies: 888 non-fl word tokens, 55 fl-word tokens, 12 fl-tokens -------
+__to_solve_this__	formulaic (3 words)
+--------- intermediate tallies: 917 non-fl word tokens, 58 fl-word tokens, 13 fl-tokens -------
+__to_solve_this_problem__	formulaic (4 words)
+--------- intermediate tallies: 946 non-fl word tokens, 62 fl-word tokens, 14 fl-tokens -------
+--------- final tallies: 1015 non-fl word tokens, 62 fl-word tokens, 14 fl-tokens, 12 fl-types -------
+=================================================================
+document                                 08_test_EC6_2015_XZZ.txt
+wordcount                                                    1023
+fl-words (unconsolidated)                                     116
+fl-density (based on unconsolid. fl-words)                   .113391
+fl-words (consolidated)                                        62
+fl-density (based on consolid. fl-words)                   .060606
+fl-types (unconsolidated)                                      25
+fl-tokens (unconsolidated)                                     31
+TTR (unconsolidated)                                         .806
+fl-types (consolidated)                                        12
+fl-tokens (consolidated)                                       14
+TTR (consolidated)                                           .857
+-----------------------------------------------------------------
+fl = formulaic language
+fl-words = number of word tokens in fl expressions
+consolidated fl-word tokens = without duplicate counting of words
+where expressions overlap
+TTR = fl expression type-token ratio
+=================================================================
+
+
+
+observations:
+=============
+- all figures (except non-fl word tokens) correct and consistent √
+- non-fl word tokens (unique to intermediate/final tallies): unclear as this figure takes the exact word count, but is in contrast to wordcount minus fl-tokens, obtained through the wc -w command. -> only show this if -1 or -2 are active √
+- on-screen final display agrees with results.csv, but perhaps should be formatted better
+- final tallies gives consolidated figures, perhaps this needs stating √
+- terminology across final tallies and results.csv:
+  - fl-word tokens vs. fl-words (consolidated) -> changed to fl-word tokens throughout √
+  - fl-types vs. fl-types (cons.); but numbers match √
+  - fl-tokens vs. fl-tokens (cons.); but numbers match √
+
+
+variable names:
+===============
+wc= # the wordcount of each document as it is processed (global wc -w)
+tokencount= # the wordcount of each document as it is processed with any adjustments (in -D,-1,-2)
+fl_word_tokens_consolidated= # number of consolidated word tokens part of fl expressions
+fl_word_tokens_unconsolidated= # unconsolidated word tokens part of expressions in current doc
+fl_tokens_unconsolidated= # number of expression tokens of current doc
+fl_tokens_consolidated= # number of consolidated expression tokens of current doc
+fl_types_unconsolidated= # number of expression types of current doc
+fl_types_consolidated= # detail count of consolidated fl types (first, actual types)
+fldensity= # fl-density of current doc (type of density depends on options)

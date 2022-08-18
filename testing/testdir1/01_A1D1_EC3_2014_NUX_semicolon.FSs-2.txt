@@ -1,0 +1,11 @@
+==============================================================================
+List of items of formulaic language found in 01_A1D1_EC3_2014_NUX_semicolon and their frequencies
+(these might overlap in the annotated text)
+produced by fl-density.sh, version 0.5.2 on Tue  2 Mar 2021 10:40:24 GMT
+FL-database used: /Users/andy/FL-density/testdir1/SP_database_file_uniq.dat
+------------------------------------------------------------------------------
+unconsolidated fl-tokens: 1
+unconsolidated fl-types:  1
+TTR: 1.000
+==============================================================================
+ there are two 	1

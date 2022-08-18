@@ -1,0 +1,3 @@
+code for -D option and accurate counting
+
+for word in $(cat k11923336.1-30.md); do if [ "$(grep '^[[:alnum:]]' <<<$word)" ]; then echo "$word     w"; (( words+=1 )); elif [ "$(grep '^_' <<<$word)" ]; then echo "$word       FL";else echo "$word";fi; done; echo "$words words"

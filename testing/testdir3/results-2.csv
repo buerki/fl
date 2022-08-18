@@ -1,0 +1,4 @@
+document	wordcount	fl-words (consolidated)	fl-density (consolidated)	fl-types (uncons.)	fl-tokens (uncons.)	TTR (uncons.)	fl-types (cons.)	fl-tokens (cons.)	TTR (cons.)
+01_A1D1_EC3_2014_NUXmodified.txt	192	16	.083333	2	4	.500	2	3	.666
+01_A1D1_EC3_2014_NUXmodified2.txt	185	11	.059459	2	3	.666	2	2	1.000
+07_test_EC5_2015_DVT.txt	1008	13	.012896	3	4	.750	2	2	1.000

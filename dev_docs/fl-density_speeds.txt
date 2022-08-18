@@ -1,0 +1,237 @@
+speed testing versions of fl-density.sh
+=======================================
+
+
+
+v. 0.3.3
+
+iMac-home:test_dir2 andy$ time fl-density.sh -i /Users/andy/FL-density/k11923336.1.txt /Users/andy/FL-density/FLtestdb.dat
+ignoring case
+processing /Users/andy/FL-density/k11923336.1.txt
+Processing /var/folders/fr/1kpb3hz536lfnpqz7x_z4zkm0000gn/T/fldensityXXX.VWMnSYb9/fls.txt ...
+Processing complete.
+document             k11923336.1.txt
+word count                      1076
+of which:
+unconsolidated fl                281
+consolidated fl                  232
+fl-density (consolid.)         .215613
+fl = formulaic language
+=======================================
+
+
+real	0m10.075s
+user	0m4.108s
+sys	0m5.899s
+
+
+
+
+The following are historical speeds on a 2009 MacBook with a CoreDuo processor.
+
+Generally, fastest is unconsolidated density, consolidation, non-standard wc options, details and annotation all add to processing time.
+
+v.0.1
+orange:test_data andy$ time ./fl-density.sh k11923336.1.txt FLtestdb.dat
+processing k11923336.1.txt
+document	wc	fl	fl-density
+k11923336.1.txt	    1074	     278	.258845
+
+real	1m11.402s
+user	0m17.640s
+sys	0m34.742s
+
+v.0.1.1 (running conversion of '_' to ' ' as db is read into memory, rather than when each line is accessed)
+orange:test_data andy$ time ./fl-density.exp.sh k11923336.1.txt FLtestdb.dat
+processing k11923336.1.txt
+document	wc	fl	fl-density
+k11923336.1.txt	    1074	     278	.258845
+
+real	0m28.801s
+user	0m9.217s
+sys	0m14.255s
+
+v.0.1.2 (parallelised relative to number of processors, on 2-core processor)
+orange:test_data andy$ time ./fl-density.exp2.sh k11923336.1.txt FLtestdb.dat
+processing k11923336.1.txt
+document	wc	fl	fl-density
+k11923336.1.txt	1075	278	.258604
+
+real	0m25.726s
+user	0m16.385s
+sys	0m27.171s
+
+v.0.1.5 (directory with 2 input docs)
+orange:test_data andy$ time ./fl-density.exp3.sh textdir FLtestdb.dat
+processing k119
+processing k11923336.1.txt
+document	wc	fl	fl-density
+k119	1075	278	.258604
+k11923336.1.txt	1075	278	.258604
+
+real	0m51.870s
+user	0m32.697s
+sys	0m54.420s
+
+v.0.1.6 (using fgrep rather than grep)
+orange:test_data andy$ time ./fl-density.exp4.sh k11923336.1.txt FLtestdb.dat
+processing k11923336.1.txt
+document	wc	fl	fl-density
+k11923336.1.txt	1075	278	.258604
+
+real	0m25.483s
+user	0m16.326s
+sys	0m27.066s
+
+v.0.1.6.1 (with -i option to grep for ignore case, which gives a slightly different result)
+orange:test_data andy$ time ./fl-density.exp4.sh k11923336.1.txt FLtestdb.dat
+processing k11923336.1.txt
+document	wc	fl	fl-density
+k11923336.1.txt	1075	303	.281860
+
+real	0m25.831s
+user	0m16.541s
+sys	0m27.334s
+
+v.0.1.7 (with annotation)
+orange:test_data andy$ time ./fl-density.exp7.sh -iA MD k11923336.1.txt FLtestdb.dat
+ignoring case when matching
+processing k11923336.1.txt
+annotated files placed in /Users/andy/comparator/test_data/k11923336.1.txt-6.md.
+document	wc	fl	fl-density
+k11923336.1.txt	1075	299	.278139
+
+real	0m44.391s
+user	0m22.627s
+sys	0m35.892s
+
+v.0.1.7.1 (tidied up)
+-> w/o annotation
+orange:test_data andy$ time ./fl-density.exp8.sh -i k11923336.1.txt FLtestdb.dat
+ignoring case
+processing k11923336.1.txt
+document	wc	fl	fl-density
+k11923336.1.txt	1074	303	.282122
+
+real	0m54.761s
+user	0m25.451s
+sys	0m38.553s
+
+-> w/o annotation, w/o detail, sorted FL-list (on iMac)
+time ./fl-density.exp10.sh -i k11923336.1.txt FLtestdb.dat
+ignoring case
+processing k11923336.1.txt
+document	wc	fl	fl-density
+k11923336.1.txt	    1071	333	.310924
+
+real	0m16.164s
+user	0m19.749s
+sys	0m31.320s
+
+v. 0.1.74 (with annotation employing two passes)
+orange:FL-density andy$ time ./fl-density.exp14.sh -iA MD k11923336.1.txt FLtestdb_exp.dat
+ignoring case
+processing k11923336.1.txt
+annotated files placed in /Users/andy/FL-density/k11923336.1-29.md
+document	wc	fl	fl-density
+k11923336.1.txt	    1071	335	.312791
+
+real	0m40.030s
+user	0m23.935s
+sys	0m38.219s
+
+v. 0.1.74 (with regular testdb)
+orange:FL-density andy$ time ./fl-density.exp14.sh -iA MD k11923336.1.txt FLtestdb.dat
+ignoring case
+processing k11923336.1.txt
+annotated files placed in /Users/andy/FL-density/k11923336.1-30.md
+document	wc	fl	fl-density
+k11923336.1.txt	    1071	333	.310924
+
+real	0m43.861s
+user	0m24.142s
+sys	0m38.504s
+
+v. 0.1.74 (w/o annotation)
+orange:FL-density andy$ time ./fl-density.exp14.sh -i k11923336.1.txt FLtestdb.dat
+ignoring case
+processing k11923336.1.txt
+document	wc	fl	fl-density
+k11923336.1.txt	    1071	333	.310924
+
+real	0m36.142s
+user	0m22.081s
+sys	0m34.357s
+
+v. 0.1.76 with annotation, do detail
+orange-2:FL-density andy$ time ./fl-density.exp16.sh -iA MD k11923336.1.txt FLtestdb.dat
+ignoring case
+processing k11923336.1.txt
+annotated files placed in /Users/andy/FL-density/k11923336.1-44.md
+document       	wc     	fl     	fl-density
+k11923336.1.txt	    1071       	333    	.310924
+
+real   	0m48.716s
+user   	0m25.216s
+sys    	0m39.244s
+
+v. 0.1.77 with annotation, no detail
+orange-2:FL-density andy$ time ./fl-density.exp17.sh -iA MD k11923336.1.txt FLtestdb.dat
+ignoring case
+processing k11923336.1.txt
+annotated files placed in /Users/andy/FL-density/k11923336.1-45.md
+document       	wc     	fl     	fl-density
+k11923336.1.txt	    1071       	333    	.310924
+
+real   	0m59.673s
+user   	0m25.117s
+sys    	0m40.716s
+
+v. 0.1.79 
+time ./fl-density.exp19.sh -iDA MD k11923336.1.txt FLtestdb.dat
+document             k11923336.1.txt
+wc                              1071
+unconsolidated fl                333
+consolidated fl                  245
+fl-density (consolid.)         .228758
+===============================
+
+real   	1m32.338s
+user   	0m29.292s
+sys    	0m50.679s
+
+v. 0.1.80
+time ./fl-density.exp20.sh -iD2 k11923336.1.txt FLtestdb.dat
+document             k11923336.1.txt
+wc                              1073
+unconsolidated fl                333
+consolidated fl                  245
+fl-density (consolid.)         .228331
+=======================================
+
+
+real	1m43.066s
+user	0m37.807s
+sys	1m6.380s
+
+-------------------------------> the basic mechanism is now fixed, so we are just looking at the impact of using various options:
+
+v. 0.1.86
+
+orange-2:FL-density andy$ time fl-density.sh -i k11923336.1.txt FLtestdb.dat
+ignoring case
+processing k11923336.1.txt
+document             k11923336.1.txt
+word count                      1071
+of which:
+unconsolidated fl                298
+consolidated fl                  247
+fl-density (consolid.)         .230625
+fl = formulaic language
+=======================================
+
+
+real	1m25.599s
+user	0m29.252s
+sys	0m50.003s
+

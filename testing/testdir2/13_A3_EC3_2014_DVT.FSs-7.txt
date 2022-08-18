@@ -1,0 +1,14 @@
+==============================================================================
+List of items of formulaic language found in 13_A3_EC3_2014_DVT and their frequencies
+(these might overlap in the annotated text)
+produced by fl-density.sh, version 0.5 on Sun 17 Jan 2021 19:47:59 GMT
+FL-database used: /Users/andy/FL-density/testdir2/SP_database_file_uniq.dat
+------------------------------------------------------------------------------
+unconsolidated fl-tokens: 5
+unconsolidated fl-types:  4
+TTR: .800
+==============================================================================
+ benefit of a 	2
+ who have a 	1
+ the benefits of a 	1
+ benefits of a 	1

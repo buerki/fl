@@ -1,0 +1,47 @@
+==============================================================================
+List of items of formulaic language found in 07_test_EC5_2015_DVT and their frequencies
+(these might overlap in the annotated text)
+produced by fl-density.sh, version 0.5 on Sun 17 Jan 2021 23:38:20 GMT
+FL-database used: /Users/andy/FL-density/testdir2/SP_database_file_exp.dat
+------------------------------------------------------------------------------
+unconsolidated fl-tokens: 42
+unconsolidated fl-types:  37
+TTR: .880
+==============================================================================
+ it is difficult for 	3
+ will continue to 	2
+ solution to this problem 	2
+ possible solution to this problem 	2
+ would be to make it 	1
+ will continue to increase 	1
+ will continue to be a 	1
+ will continue to be 	1
+ will also suggest a possible 	1
+ who sleep in 	1
+ who does not have a 	1
+ understand why this problem exists 	1
+ to understand why this problem 	1
+ to decrease the 	1
+ this solution would be to 	1
+ this solution has one important 	1
+ this solution has one 	1
+ this solution has 	1
+ this problem exists 	1
+ this essay will focus on 	1
+ this essay has offered one 	1
+ this essay has 	1
+ the most serious 	1
+ suggest a possible solution to 	1
+ solution would be to make 	1
+ solution has one important limitation 	1
+ result in high rates of 	1
+ one important limitation 	1
+ offered one possible solution 	1
+ offered one possible 	1
+ of this solution would be 	1
+ negative effects on 	1
+ makes a real effort to 	1
+ main cause of 	1
+ it is important to understand 	1
+ it is important to 	1
+ it is important 	1

@@ -1,0 +1,76 @@
+outputs of various options (when you supply one file at a time)
+
+'D'
+Processing complete.
+=================================================================
+document                                01_A1D1_EC3_2014_NUXmodified2.txt
+wordcount                                                     185
+fl-tokens                                                       3
+fl-density (based on unconsol. fl-tokens)                   .016216
+fl-types                                                        2
+-----------------------------------------------------------------
+fl = formulaic language
+fl-words = number of word tokens in fl expressions
+consolidated fl-word tokens = without duplicate counting of words
+where expressions overlap
+=================================================================
+
+
+'W'
+Processing complete.
+=================================================================
+document                                01_A1D1_EC3_2014_NUXmodified2.txt
+wordcount                                                     185
+fl-words (unconsolidated)                                      16
+fl-density (based on unconsol. fl-words)                   .086486
+fl-types                                                        2
+fl-tokens                                                       3
+-----------------------------------------------------------------
+fl = formulaic language
+fl-words = number of word tokens in fl expressions
+consolidated fl-word tokens = without duplicate counting of words
+where expressions overlap
+=================================================================
+
+'w'
+--------- final tallies: 999 non-fl word tokens, 13 fl-word tokens, 2 fl-tokens, 2 fl-types -------
+=================================================================
+document                                 07_test_EC5_2015_DVT.txt
+wordcount                                                    1008
+fl-words (unconsolidated)                                      18
+fl-words (consolidated)                                        13
+fl-density (based on consolid. fl-words)                   .012896
+fl-types (unconsolidated)                                       3
+fl-tokens (unconsolidated)                                      4
+TTR (unconsolidated)                                         .750
+fl-types (consolidated)                                         2
+fl-tokens (consolidated)                                        2
+TTR (consolidated)                                          1.000
+-----------------------------------------------------------------
+fl = formulaic language
+fl-words = number of word tokens in fl expressions
+consolidated fl-word tokens = without duplicate counting of words
+where expressions overlap
+TTR = fl expression type-token ratio
+=================================================================
+ 
+ 
+ 'w' on all three
+processing 01_A1D1_EC3_2014_NUXmodified.txt
+Processing /var/folders/fr/1kpb3hz536lfnpqz7x_z4zkm0000gn/T/fldensityXXX.CqvSzcjj/fls.txt ...
+Processing complete.
+--------- final tallies: 175 non-fl word tokens, 16 fl-word tokens, 3 fl-tokens, 2 fl-types -------
+processing 01_A1D1_EC3_2014_NUXmodified2.txt
+Processing /var/folders/fr/1kpb3hz536lfnpqz7x_z4zkm0000gn/T/fldensityXXX.CqvSzcjj/fls.txt ...
+Processing complete.
+--------- final tallies: 173 non-fl word tokens, 11 fl-word tokens, 2 fl-tokens, 2 fl-types -------
+processing 07_test_EC5_2015_DVT.txt
+Processing /var/folders/fr/1kpb3hz536lfnpqz7x_z4zkm0000gn/T/fldensityXXX.CqvSzcjj/fls.txt ...
+Processing complete.
+--------- final tallies: 999 non-fl word tokens, 13 fl-word tokens, 2 fl-tokens, 2 fl-types -------
+document	wordcount	fl-words (consolidated)	fl-density (consolidated)	fl-types (uncons.)fl-tokens (uncons.)	TTR (uncons.)	fl-types (cons.)	fl-tokens (cons.)	TTR (cons.)
+01_A1D1_EC3_2014_NUXmodified.txt	192	16	.083333	2	4	.500	2	3	.666
+01_A1D1_EC3_2014_NUXmodified2.txt	185	11	.059459	2	3	.666	2	2	1.000
+07_test_EC5_2015_DVT.txt	1008	13	.012896	3	4	.750	2	2	1.000
+results file placed in /Users/andy/FL-density/testdir3/results-2.csv.
+ Press ENTER to exit the programme.

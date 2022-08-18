@@ -1,0 +1,11 @@
+==============================================================================
+List of items of formulaic language found in 13_A1D1_EC3_2014_DVT and their frequencies
+(these might overlap in the annotated text)
+produced by fl-density.sh, version 0.5 on Sun 17 Jan 2021 17:51:14 GMT
+FL-database used: /Users/andy/FL-density/testdir2/SP_database_file_uniq.dat
+------------------------------------------------------------------------------
+unconsolidated fl-tokens: 1
+unconsolidated fl-types:  1
+TTR: 1.000
+==============================================================================
+ if you go to 	1

@@ -1,0 +1,13 @@
+==============================================================================
+List of items of formulaic language found in 07_test_EC5_2015_DVT and their frequencies
+(these might overlap in the annotated text)
+produced by fl-density.sh, version 0.5 on Fri 29 Jan 2021 17:27:13 GMT
+FL-database used: /Users/andy/FL-density/testdir3/testdb.dat
+------------------------------------------------------------------------------
+unconsolidated fl-tokens: 4
+unconsolidated fl-types:  3
+TTR: .750
+==============================================================================
+ solution to this problem 	2
+ will also suggest a possible 	1
+ suggest a possible solution to 	1

@@ -1,0 +1,29 @@
+==============================================================================
+List of items of formulaic language found in 13_A2D1_EC4_2014_DVT and their frequencies
+(these might overlap in the annotated text)
+produced by fl-density.sh, version 0.5 on Sun 17 Jan 2021 17:51:15 GMT
+FL-database used: /Users/andy/FL-density/testdir2/SP_database_file_uniq.dat
+------------------------------------------------------------------------------
+unconsolidated fl-tokens: 24
+unconsolidated fl-types:  19
+TTR: .791
+==============================================================================
+ who have a good 	3
+ who have a 	3
+ it is important 	2
+ who were not in 	1
+ who were not 	1
+ who want to 	1
+ who have good 	1
+ this essay has explained three 	1
+ this essay has explained 	1
+ this essay has 	1
+ study showed that 	1
+ it is very important 	1
+ it is important for 	1
+ is very important to 	1
+ is very important 	1
+ is important for 	1
+ if they are 	1
+ essay has explained three important 	1
+ a study showed that 	1

@@ -1,0 +1,10 @@
+document	wordcount	fl-word tokens (cons.)	fl-density (cons.)	fl-types (uncons.)	fl-tokens (uncons.)	TTR (uncons.)	fl-types (cons.)	fl-tokens (cons.)	TTR (cons.)
+01_A1D1_EC3_2014_FUB.txt	182	0	0	0	0	0	0	0	0
+01_A1D1_EC3_2014_NUX.txt	182	3	.016483	1	1	1.000	1	1	1.000
+05_A1D1_EC3_2014_WQQ.txt	207	9	.043478	3	3	1.000	2	2	1.000
+07_test_EC5_2015_DVT.txt	1008	133	.131944	65	70	.928	24	26	.923
+07_test_EC6_2015_DVT.txt	1208	157	.129966	69	79	.873	29	34	.852
+08_test_EC6_2015_XZZ.txt	1023	62	.060606	25	31	.806	12	14	.857
+13_A1D1_EC3_2014_DVT.txt	175	4	.022857	1	1	1.000	1	1	1.000
+13_A2D1_EC4_2014_DVT.txt	627	46	.073365	19	24	.791	11	12	.916
+13_A3_EC3_2014_DVT.txt	411	13	.031630	4	5	.800	3	4	.750

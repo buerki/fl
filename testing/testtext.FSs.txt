@@ -1,0 +1,4695 @@
+List of items of formulaic language found in testtext and their frequencies
+(these might overlap in the annotated text)
+produced by fl-density.sh, version 0.1.85 on Tue 20 Sep 2016 16:30:44 BST
+FL-database used: years of age or older the average household size 
+were num years of age or older the median 
+was num years of age or older the average 
+two or more races hispanic or latino of any 
+someone living alone who was num years of age 
+or more races hispanic or latino of any race 
+of the population were below the poverty line including 
+num years of age or older the median age 
+num years of age or older the average household 
+more races hispanic or latino of any race were 
+males for every num females age num and over 
+living alone who was num years of age or 
+is a village in the administrative district of gmina 
+from two or more races hispanic or latino of 
+for every num females age num and over there 
+every num females age num and over there were 
+children under the age of num living with them 
+alone who was num years of age or older 
+age or older the average household size was num 
+% of the population were below the poverty line 
+% of all households were made up of individuals 
+% had someone living alone who was num years 
+% had children under the age of num living 
+% had a female householder with no husband present 
+% from two or more races hispanic or latino 
+as of the census of num there were 
+years for every num females there were 
+the people ' s republic of china 
+housing units at an average density of 
+the population was spread out with 
+the end of world war ii 
+one of the world ' s 
+males had a median income of 
+% were married couples living together 
+% under the age of num 
+this is a list of 
+the world ' s largest 
+the world ' s first 
+the united states of america 
+the num – num season 
+the num fifa world cup 
+the mid hyph numth century 
+the end of the war 
+one of the most important 
+of the world ' s 
+of the country ' s 
+of the city ' s 
+in the early numth century 
+in a num – num 
+% were non - families 
+% from num to num 
+with the united states 
+with the help of 
+with the exception of 
+with a number of 
+was the son of 
+was a member of 
+under the leadership of 
+under the influence of 
+under the command of 
+to the united states 
+to the u s 
+to a number of 
+the world ' s 
+the university ' s 
+the team ' s 
+the state ' s 
+the so - called 
+the show ' s 
+the second world war 
+the school ' s 
+the roman catholic church 
+the player ' s 
+the people ' s 
+the party ' s 
+the nums and nums 
+the num world cup 
+the new york times 
+the nation ' s 
+the late numth century 
+the king ' s 
+the group ' s 
+the government ' s 
+the game ' s 
+the film ' s 
+the earth ' s 
+the early numth century 
+the country ' s 
+the company ' s 
+the club ' s 
+the city ' s 
+the band ' s 
+the album ' s 
+st john ' s 
+similar to that of 
+one of the most 
+one of the main 
+one of the largest 
+one of the best 
+on the other hand 
+on the island of 
+on the basis of 
+often referred to as 
+of world war ii 
+of the university of 
+of the united states 
+of the united nations 
+of the united kingdom 
+of the u s 
+of the soviet union 
+of the same name 
+of the republic of 
+of the numth century 
+of the new york 
+of the kingdom of 
+of the house of 
+of the european union 
+of the city of 
+of a number of 
+it was the first 
+it was reported that 
+it was announced that 
+is referred to as 
+is best known for 
+is also known as 
+is a type of 
+is a species of 
+is a genus of 
+in world war ii 
+in washington d c 
+in the united states 
+in the united kingdom 
+in the u s 
+in the town of 
+in the summer of 
+in the spring of 
+in the soviet union 
+in the second round 
+in the same year 
+in the process of 
+in the presence of 
+in the numth century 
+in the middle east 
+in the late nums 
+in the history of 
+in the form of 
+in the first round 
+in the field of 
+in the face of 
+in the early nums 
+in the context of 
+in the city of 
+in the case of 
+in the battle of 
+in the area of 
+in new york city 
+in a series of 
+in a number of 
+i don ' t 
+households out of which 
+his mother ' s 
+his father ' s 
+her husband ' s 
+he was the first 
+has been described as 
+has a population of 
+for the purpose of 
+during world war ii 
+during world war i 
+during the reign of 
+covers an area of 
+by the united states 
+by the u s 
+by the end of 
+by a number of 
+at the university of 
+at the time of 
+at the same time 
+at the num census 
+at the end of 
+at the battle of 
+at the age of 
+as a result of 
+as a means of 
+after world war ii 
+after the death of 
+a wide variety of 
+a wide range of 
+a two - year 
+a small number of 
+a large number of 
+a great deal of 
+a four - year 
+( see below ) 
+( also known as 
+% of the vote 
+% of the total 
+% of the population 
+’ s first 
+year ' s 
+x - ray 
+wouldn ' t 
+world war ii 
+world war i 
+women ' s 
+with the same 
+with the club 
+with his wife 
+with each other 
+with an average 
+with a single 
+with a num 
+with a large 
+which in turn 
+whether or not 
+well - known 
+wasn ' t 
+washington d c 
+was used for 
+was the third 
+was the largest 
+was responsible for 
+was released on 
+was no longer 
+was named after 
+was known as 
+was held on 
+was divided into 
+was born on 
+was born at 
+was based on 
+was an important 
+was also used 
+was a major 
+used to make 
+used to describe 
+used as an 
+up to num 
+until his death 
+university ' s 
+under the title 
+under the name 
+uefa champions league 
+two years later 
+took place on 
+today ' s 
+to the world 
+to the west 
+to the throne 
+to the south 
+to the same 
+to the right 
+to the public 
+to the original 
+to the num 
+to the north 
+to the main 
+to the ground 
+to the french 
+to the final 
+to the east 
+to the city 
+to the british 
+to the area 
+to the american 
+to show that 
+to serve as 
+to new york 
+to focus on 
+to ensure that 
+to each other 
+to deal with 
+to carry out 
+to believe that 
+to be used 
+to be released 
+to be built 
+title list of 
+title battle of 
+throughout the year 
+throughout the world 
+this type of 
+this means that 
+third - party 
+there is no 
+there ' s 
+the world cup 
+the white house 
+the vietnam war 
+the use of 
+the university of 
+the united states 
+the united nations 
+the united kingdom 
+the u s 
+the top num 
+the supreme court 
+the soviet union 
+the second largest 
+the san francisco 
+the same year 
+the same time 
+the same as 
+the royal navy 
+the relationship between 
+the red army 
+the previous year 
+the premier league 
+the pacific ocean 
+the ottoman empire 
+the operating system 
+the numth century 
+the numst century 
+the number of 
+the num season 
+the north american 
+the next day 
+the new zealand 
+the new york 
+the need for 
+the national team 
+the most successful 
+the most significant 
+the most recent 
+the most prominent 
+the most popular 
+the most important 
+the most famous 
+the most common 
+the milky way 
+the middle east 
+the middle ages 
+the majority of 
+the los angeles 
+the late nums 
+the korean war 
+the idea that 
+the following year 
+the following day 
+the federal government 
+the fact that 
+the european union 
+the early nums 
+the czech republic 
+the concept of 
+the civil war 
+the city of 
+the catholic church 
+the british government 
+the battle of 
+the basis for 
+the air force 
+that same year 
+that ' s 
+team ' s 
+such as the 
+stalin ' s 
+some of these 
+so - called 
+smith ' s 
+short - term 
+shakespeare ' s 
+secretary of state 
+scored his first 
+russia ' s 
+runner - up 
+right - wing 
+referred to as 
+real - time 
+r & b 
+queen ' s 
+present - day 
+post - war 
+pointed out that 
+point of view 
+play - off 
+period of time 
+people ' s 
+peaked at number 
+part - time 
+over the next 
+only a few 
+one of these 
+one of several 
+one ' s 
+on their own 
+on the western 
+on the west 
+on the south 
+on the same 
+on the road 
+on the right 
+on the north 
+on the island 
+on the ground 
+on the front 
+on the east 
+on the album 
+on september num 
+on october num 
+on num september 
+on num october 
+on num november 
+on num may 
+on num march 
+on num june 
+on num january 
+on num august 
+on november num 
+on july num 
+on his own 
+on december num 
+on behalf of 
+on august num 
+on april num 
+of whom were 
+of u s 
+of their own 
+of the year 
+of the world 
+of the word 
+of the whole 
+of the western 
+of the west 
+of the water 
+of the war 
+of the village 
+of the us 
+of the university 
+of the universe 
+of the union 
+of the town 
+of the tournament 
+of the total 
+of the term 
+of the system 
+of the sun 
+of the story 
+of the state 
+of the spanish 
+of the soviet 
+of the southern 
+of the south 
+of the song 
+of the show 
+of the series 
+of the second 
+of the same 
+of the russian 
+of the royal 
+of the roman 
+of the region 
+of the red 
+of the public 
+of the province 
+of the project 
+of the previous 
+of the population 
+of the polish 
+of the philippines 
+of the period 
+of the party 
+of the pacific 
+of the original 
+of the old 
+of the numth 
+of the nums 
+of the num 
+of the novel 
+of the north 
+of the newly 
+of the new 
+of the netherlands 
+of the national 
+of the name 
+of the modern 
+of the match 
+of the major 
+of the main 
+of the local 
+of the line 
+of the late 
+of the land 
+of the korean 
+of the king 
+of the japanese 
+of the italian 
+of the island 
+of the international 
+of the individual 
+of the indian 
+of the imperial 
+of the human 
+of the holy 
+of the group 
+of the greek 
+of the grand 
+of the government 
+of the german 
+of the french 
+of the former 
+of the following 
+of the five 
+of the first 
+of the film 
+of the family 
+of the european 
+of the entire 
+of the english 
+of the empire 
+of the east 
+of the earth 
+of the early 
+of the current 
+of the country 
+of the competition 
+of the club 
+of the city 
+of the church 
+of the christian 
+of the central 
+of the canadian 
+of the building 
+of the british 
+of the book 
+of the body 
+of the battle 
+of the band 
+of the australian 
+of the army 
+of the area 
+of the ancient 
+of the american 
+of the album 
+of south africa 
+of north america 
+of new zealand 
+of new york 
+of its own 
+of his works 
+of his own 
+of his life 
+of his father 
+of his career 
+of great britain 
+of at least 
+of a single 
+of a large 
+numth hyph century 
+number - one 
+num – num 
+num years ago 
+num hyph year 
+num hyph num 
+num hyph bit 
+num and num 
+num / num 
+num % were 
+num % of 
+num % ) 
+now known as 
+newton ' s 
+new york city 
+new south wales 
+national football team 
+napoleon ' s 
+more than num 
+more or less 
+modern - day 
+million years ago 
+middle - class 
+microsoft ' s 
+men and women 
+men ' s 
+may be used 
+many of these 
+man ' s 
+major league baseball 
+mac os x 
+low - cost 
+long - time 
+long - term 
+london ' s 
+line - up 
+let ' s 
+left - wing 
+lee ' s 
+later that year 
+large numbers of 
+large amounts of 
+large - scale 
+known as the 
+km / h 
+king ' s 
+john ' s 
+jay - z 
+japan ' s 
+jackson ' s 
+it was first 
+it was also 
+it is now 
+it is not 
+it is located 
+it is an 
+it is also 
+it does not 
+it ' s 
+israel ' s 
+isn ' t 
+is used for 
+is the third 
+is the oldest 
+is the main 
+is the largest 
+is responsible for 
+is part of 
+is not known 
+is no longer 
+is named after 
+is located at 
+is known for 
+is known as 
+is divided into 
+is credited with 
+is composed of 
+is capable of 
+is based on 
+is associated with 
+is an important 
+is an american 
+is a small 
+is a popular 
+is a major 
+is a large 
+is a former 
+is a common 
+international film festival 
+institute of technology 
+india ' s 
+in this way 
+in this case 
+in this area 
+in their own 
+in the world 
+in the western 
+in the west 
+in the war 
+in the usa 
+in the us 
+in the uk 
+in the town 
+in the top 
+in the third 
+in the summer 
+in the southern 
+in the south 
+in the series 
+in the second 
+in the same 
+in the russian 
+in the region 
+in the process 
+in the previous 
+in the philippines 
+in the past 
+in the pacific 
+in the original 
+in the numth 
+in the nums 
+in the num 
+in the northern 
+in the north 
+in the new 
+in the netherlands 
+in the national 
+in the nation 
+in the morning 
+in the middle 
+in the lower 
+in the league 
+in the late 
+in the german 
+in the future 
+in the french 
+in the fourth 
+in the former 
+in the following 
+in the first 
+in the final 
+in the film 
+in the field 
+in the family 
+in the english 
+in the end 
+in the east 
+in the early 
+in the country 
+in the city 
+in the central 
+in the capital 
+in the british 
+in the book 
+in the battle 
+in the area 
+in the american 
+in the air 
+in terms of 
+in support of 
+in south korea 
+in south africa 
+in some cases 
+in september num 
+in search of 
+in san francisco 
+in return for 
+in recent years 
+in other words 
+in october num 
+in num the 
+in november num 
+in north america 
+in new zealand 
+in new york 
+in may num 
+in march num 
+in love with 
+in los angeles 
+in june num 
+in july num 
+in january num 
+in honor of 
+in hong kong 
+in his own 
+in his career 
+in his book 
+in front of 
+in february num 
+in favour of 
+in favor of 
+in exchange for 
+in december num 
+in conjunction with 
+in charge of 
+in august num 
+in april num 
+in an interview 
+in accordance with 
+in a small 
+in a single 
+in a row 
+in a few 
+ii ' s 
+i ' ve 
+i ' m 
+i ' ll 
+house of representatives 
+holy roman emperor 
+hitler ' s 
+high - speed 
+henry ' s 
+head of state 
+he was named 
+he was elected 
+he was appointed 
+he was an 
+he was also 
+he served as 
+he is also 
+he has also 
+he did not 
+he ' s 
+have the same 
+have been used 
+have been developed 
+has stated that 
+has its own 
+hall of fame 
+government ' s 
+god ' s 
+germany ' s 
+fußball - bundesliga 
+full - time 
+france ' s 
+formula and formula 
+for this reason 
+for several years 
+for a few 
+follow - up 
+first - class 
+fifa world cup 
+features such as 
+f hyph num 
+english - language 
+england ' s 
+earth ' s 
+during this time 
+during this period 
+during the war 
+during the nums 
+during the late 
+during the early 
+due to an 
+don ' t 
+doesn ' t 
+divided into two 
+different types of 
+didn ' t 
+countries such as 
+couldn ' t 
+commonly known as 
+coat of arms 
+city ' s 
+china ' s 
+children ' s 
+chief of staff 
+canada ' s 
+can be used 
+can be seen 
+can be considered 
+can ' t 
+c + + 
+by the same 
+by the national 
+by the japanese 
+by the international 
+by the government 
+by the german 
+by the french 
+by the british 
+by the american 
+by means of 
+by - election 
+britain ' s 
+both of which 
+bosnia and herzegovina 
+blu - ray 
+black and white 
+between the two 
+began his career 
+before his death 
+becoming the first 
+because of this 
+became the first 
+became known as 
+be used for 
+award for best 
+australia ' s 
+at the time 
+at the same 
+at the royal 
+at the num 
+at the club 
+at that time 
+at least two 
+at least one 
+at & t 
+as well as 
+as the main 
+as part of 
+as of num 
+as long as 
+as high as 
+as far as 
+as early as 
+as an independent 
+as a whole 
+as a substitute 
+as a single 
+as a separate 
+as a result 
+as a major 
+as a child 
+artists such as 
+around the world 
+are used for 
+are often used 
+are no longer 
+are known as 
+are based on 
+are also used 
+apple ' s 
+anti - aircraft 
+an example of 
+an average of 
+an area of 
+america ' s 
+also known as 
+along with other 
+all - time 
+all - star 
+after the war 
+after his death 
+african - american 
+across the country 
+academy of sciences 
+above sea level 
+a year later 
+a variety of 
+a u s 
+a type of 
+a total of 
+a system of 
+a source of 
+a sort of 
+a set of 
+a series of 
+a sense of 
+a range of 
+a piece of 
+a period of 
+a part of 
+a pair of 
+a number of 
+a network of 
+a mixture of 
+a mix of 
+a member of 
+a maximum of 
+a matter of 
+a lot of 
+a list of 
+a lack of 
+a kind of 
+a handful of 
+a group of 
+a friend of 
+a form of 
+a few years 
+a few months 
+a few days 
+a family of 
+a couple of 
+a combination of 
+a collection of 
+( x ) 
+( such as 
+( s ) 
+( num ) 
+( known as 
+( i e 
+( for example 
+( film ) 
+( e g 
+( disambiguation ) 
+( born num 
+( band ) 
+( as of 
+( also called 
+( along with 
+( album ) 
+% of all 
+’ t 
+’ s 
+° c 
+young people 
+yet another 
+years until 
+years the 
+years old 
+years later 
+years in 
+years he 
+years earlier 
+years ago 
+years ) 
+year the 
+year old 
+year in 
+x num 
+wrote that 
+written for 
+writes that 
+would remain 
+would never 
+would later 
+would eventually 
+would become 
+would allow 
+world series 
+world cup 
+world championships 
+world championship 
+works were 
+works of 
+works are 
+working with 
+working on 
+working for 
+worked with 
+worked on 
+worked for 
+work the 
+word for 
+won two 
+women who 
+without any 
+with water 
+with various 
+with this 
+with these 
+with the 
+with several 
+with num 
+with local 
+with little 
+with large 
+with high 
+with great 
+with france 
+with five 
+with each 
+with different 
+with both 
+winter olympics 
+windows vista 
+windows num 
+win over 
+wife of 
+widely used 
+while there 
+while others 
+western europe 
+western australia 
+west virginia 
+west of 
+west germany 
+were used 
+were taken 
+were sold 
+were reported 
+were released 
+were published 
+were produced 
+were originally 
+were often 
+were num 
+were never 
+were named 
+were later 
+were killed 
+were introduced 
+were initially 
+were held 
+were given 
+were formed 
+were eventually 
+were established 
+were developed 
+were destroyed 
+were created 
+were constructed 
+were considered 
+were called 
+were built 
+were both 
+were awarded 
+were already 
+were added 
+went through 
+went on 
+went into 
+well received 
+well known 
+weeks of 
+ways of 
+wave of 
+was written 
+was widely 
+was voted 
+was under 
+was too 
+was taken 
+was subsequently 
+was soon 
+was sold 
+was signed 
+was shown 
+was shot 
+was set 
+was sent 
+was restored 
+was renamed 
+was removed 
+was recorded 
+was ranked 
+was quickly 
+was published 
+was probably 
+was previously 
+was presented 
+was played 
+was performed 
+was passed 
+was particularly 
+was originally 
+was organized 
+was opened 
+was once 
+was often 
+was officially 
+was offered 
+was num 
+was never 
+was named 
+was lost 
+was less 
+was launched 
+was later 
+was largely 
+was killed 
+was issued 
+was introduced 
+was initially 
+was incorporated 
+was highly 
+was held 
+was heavily 
+was granted 
+was given 
+was generally 
+was further 
+was formerly 
+was formed 
+was formally 
+was fired 
+was finally 
+was eventually 
+was established 
+was elected 
+was dropped 
+was done 
+was discovered 
+was developed 
+was declared 
+was created 
+was constructed 
+was considered 
+was completed 
+was commissioned 
+was closed 
+was chosen 
+was captured 
+was cancelled 
+was called 
+was built 
+was brought 
+was born 
+was available 
+was assassinated 
+was approved 
+was appointed 
+was always 
+was already 
+was almost 
+was again 
+was adopted 
+was added 
+was actually 
+was accepted 
+was abandoned 
+warner bros 
+war with 
+war the 
+war of 
+walt disney 
+volumes of 
+village of 
+view of 
+video games 
+video game 
+victory over 
+vice president 
+very small 
+very popular 
+very low 
+very little 
+very large 
+very high 
+very few 
+versions of 
+version of 
+version num 
+variety of 
+varieties of 
+van der 
+values of 
+value of 
+using an 
+uses of 
+user interface 
+useful for 
+used with 
+used on 
+used for 
+use of 
+us num 
+until num 
+university of 
+units were 
+units of 
+united states 
+united nations 
+united kingdom 
+unit of 
+union of 
+understanding of 
+under construction 
+uefa cup 
+u s 
+types of 
+type of 
+two weeks 
+two sons 
+two separate 
+two seasons 
+two months 
+two major 
+two main 
+two games 
+two different 
+two decades 
+two days 
+two daughters 
+two children 
+twice as 
+twenty years 
+tv series 
+turned down 
+troops were 
+treaty of 
+treatment of 
+translated as 
+tradition of 
+town of 
+total of 
+top scorer 
+top num 
+took up 
+took place 
+took over 
+too much 
+tons of 
+together with 
+to write 
+to withdraw 
+to win 
+to wear 
+to watch 
+to vote 
+to visit 
+to various 
+to use 
+to understand 
+to turn 
+to treat 
+to travel 
+to train 
+to think 
+to these 
+to the 
+to test 
+to tell 
+to teach 
+to survive 
+to surrender 
+to support 
+to supply 
+to succeed 
+to study 
+to store 
+to stop 
+to stay 
+to start 
+to stand 
+to st 
+to spread 
+to spend 
+to speak 
+to spain 
+to solve 
+to six 
+to sit 
+to sing 
+to sign 
+to show 
+to shoot 
+to share 
+to several 
+to settle 
+to set 
+to serve 
+to send 
+to sell 
+to select 
+to seek 
+to see 
+to secure 
+to score 
+to save 
+to russia 
+to run 
+to rule 
+to rome 
+to rise 
+to return 
+to retreat 
+to retire 
+to retain 
+to restore 
+to resign 
+to rescue 
+to represent 
+to report 
+to replace 
+to remove 
+to remain 
+to release 
+to regain 
+to reduce 
+to recover 
+to record 
+to recognize 
+to receive 
+to read 
+to reach 
+to raise 
+to put 
+to pursue 
+to purchase 
+to publish 
+to provide 
+to prove 
+to protect 
+to promote 
+to produce 
+to prevent 
+to preserve 
+to present 
+to prepare 
+to power 
+to place 
+to perform 
+to pay 
+to pass 
+to paris 
+to organize 
+to operate 
+to open 
+to offer 
+to occur 
+to obtain 
+to num 
+to negotiate 
+to move 
+to modern 
+to meet 
+to mean 
+to me 
+to marry 
+to manage 
+to maintain 
+to lose 
+to look 
+to london 
+to local 
+to live 
+to light 
+to life 
+to let 
+to leave 
+to learn 
+to lead 
+to launch 
+to land 
+to know 
+to kill 
+to keep 
+to join 
+to john 
+to japan 
+to italy 
+to introduce 
+to india 
+to increase 
+to include 
+to improve 
+to implement 
+to identify 
+to human 
+to hold 
+to high 
+to help 
+to hear 
+to handle 
+to grow 
+to god 
+to give 
+to germany 
+to generate 
+to gain 
+to further 
+to free 
+to france 
+to form 
+to force 
+to follow 
+to fly 
+to five 
+to fit 
+to fire 
+to finish 
+to find 
+to fill 
+to fight 
+to feature 
+to fall 
+to face 
+to extend 
+to express 
+to explain 
+to expand 
+to exist 
+to europe 
+to establish 
+to escape 
+to enter 
+to ensure 
+to england 
+to encourage 
+to enable 
+to eliminate 
+to either 
+to eat 
+to earth 
+to each 
+to drop 
+to drive 
+to draw 
+to distinguish 
+to display 
+to discuss 
+to discover 
+to direct 
+to different 
+to die 
+to develop 
+to determine 
+to detect 
+to destroy 
+to design 
+to describe 
+to demonstrate 
+to deliver 
+to define 
+to defend 
+to defeat 
+to decide 
+to death 
+to date 
+to cut 
+to create 
+to cover 
+to convince 
+to convert 
+to control 
+to continue 
+to contain 
+to consider 
+to connect 
+to conduct 
+to complete 
+to compete 
+to come 
+to combat 
+to collect 
+to close 
+to claim 
+to choose 
+to china 
+to change 
+to cause 
+to catch 
+to carry 
+to capture 
+to canada 
+to call 
+to buy 
+to build 
+to britain 
+to bring 
+to break 
+to both 
+to better 
+to begin 
+to become 
+to avoid 
+to australia 
+to attract 
+to attend 
+to attack 
+to assist 
+to ask 
+to apply 
+to appear 
+to america 
+to allow 
+to advance 
+to adopt 
+to address 
+to add 
+to act 
+to acquire 
+to achieve 
+to accommodate 
+to access 
+to accept 
+to abandon 
+title the 
+title pope 
+title num 
+title john 
+times as 
+time the 
+time period 
+time in 
+time ) 
+three weeks 
+three times 
+three months 
+three major 
+three main 
+three different 
+three days 
+three children 
+thousands of 
+thought that 
+thought of 
+though not 
+those who 
+this would 
+this view 
+this system 
+this process 
+this problem 
+this position 
+this name 
+this method 
+this group 
+this area 
+think that 
+they were 
+they lost 
+they became 
+they are 
+they also 
+these were 
+these two 
+these include 
+these are 
+there were 
+there are 
+theory of 
+theories of 
+then became 
+themselves as 
+the youth 
+the youngest 
+the younger 
+the young 
+the yankees 
+the writer 
+the worst 
+the world 
+the work 
+the words 
+the word 
+the woman 
+the winner 
+the wing 
+the windows 
+the wind 
+the whole 
+the white 
+the western 
+the wedding 
+the website 
+the web 
+the weapon 
+the water 
+the washington 
+the war 
+the walls 
+the wall 
+the visual 
+the virus 
+the village 
+the video 
+the victim 
+the vehicle 
+the vatican 
+the vast 
+the various 
+the value 
+the usual 
+the ussr 
+the user 
+the usa 
+the us 
+the urban 
+the upper 
+the upcoming 
+the university 
+the universe 
+the unit 
+the unique 
+the union 
+the underlying 
+the un 
+the ultimate 
+the uk 
+the two 
+the tv 
+the turks 
+the turkish 
+the truth 
+the true 
+the troops 
+the trial 
+the tree 
+the treaty 
+the train 
+the traditional 
+the trade 
+the tracks 
+the track 
+the town 
+the tower 
+the tournament 
+the tour 
+the total 
+the toronto 
+the top 
+the tokyo 
+the title 
+the times 
+the throne 
+the three 
+the third 
+the theatre 
+the text 
+the texas 
+the test 
+the terms 
+the term 
+the tenth 
+the temple 
+the temperature 
+the technology 
+the teams 
+the team 
+the target 
+the tank 
+the table 
+the system 
+the syrian 
+the swiss 
+the swedish 
+the surrounding 
+the surface 
+the super 
+the sun 
+the successful 
+the subsequent 
+the subject 
+the style 
+the study 
+the studio 
+the students 
+the student 
+the struggle 
+the structure 
+the strongest 
+the strong 
+the street 
+the story 
+the storm 
+the store 
+the stone 
+the station 
+the states 
+the statement 
+the state 
+the starting 
+the star 
+the standard 
+the stage 
+the stadium 
+the st 
+the ss 
+the squad 
+the sport 
+the specific 
+the species 
+the special 
+the spanish 
+the spacecraft 
+the space 
+the soviets 
+the soviet 
+the southern 
+the source 
+the sound 
+the songs 
+the song 
+the solution 
+the sole 
+the soldiers 
+the soil 
+the software 
+the society 
+the social 
+the smallest 
+the smaller 
+the small 
+the skin 
+the sixth 
+the six 
+the situation 
+the site 
+the single 
+the singer 
+the signal 
+the siege 
+the side 
+the show 
+the short 
+the ships 
+the ship 
+the seventh 
+the seven 
+the settlement 
+the service 
+the series 
+the senior 
+the senate 
+the secret 
+the secondary 
+the second 
+the seat 
+the sea 
+the script 
+the scottish 
+the score 
+the scientific 
+the school 
+the scene 
+the same 
+the russians 
+the russian 
+the rural 
+the run 
+the ruling 
+the rules 
+the royal 
+the route 
+the root 
+the room 
+the romans 
+the romanian 
+the roman 
+the role 
+the rock 
+the road 
+the river 
+the ring 
+the results 
+the resulting 
+the result 
+the research 
+the required 
+the republican 
+the report 
+the remaining 
+the religious 
+the relative 
+the regional 
+the region 
+the regime 
+the red 
+the record 
+the recent 
+the rebels 
+the rebellion 
+the reason 
+the rear 
+the real 
+the reader 
+the railway 
+the radio 
+the race 
+the question 
+the queen 
+the quarter 
+the public 
+the prussian 
+the provincial 
+the proposed 
+the proposal 
+the property 
+the proper 
+the project 
+the program 
+the production 
+the product 
+the process 
+the problem 
+the private 
+the principal 
+the primary 
+the previous 
+the pressure 
+the press 
+the presidential 
+the president 
+the presidency 
+the present 
+the prc 
+the practice 
+the powerful 
+the power 
+the potential 
+the post 
+the possible 
+the position 
+the portuguese 
+the port 
+the population 
+the popular 
+the pope 
+the political 
+the polish 
+the point 
+the poet 
+the poem 
+the plot 
+the playoffs 
+the players 
+the player 
+the plant 
+the planet 
+the plane 
+the plan 
+the place 
+the pitch 
+the pilot 
+the piano 
+the physical 
+the phrase 
+the philippines 
+the philippine 
+the philadelphia 
+the personal 
+the person 
+the persians 
+the persian 
+the performance 
+the peace 
+the patient 
+the party 
+the parties 
+the parliament 
+the park 
+the paris 
+the paper 
+the palestinian 
+the palace 
+the pair 
+the pacific 
+the overall 
+the outer 
+the ottomans 
+the ottoman 
+the others 
+the other 
+the original 
+the organization 
+the order 
+the orchestra 
+the opposition 
+the opposite 
+the operation 
+the opera 
+the opening 
+the open 
+the only 
+the ongoing 
+the olympics 
+the oldest 
+the older 
+the old 
+the oil 
+the official 
+the office 
+the offer 
+the october 
+the ocean 
+the object 
+the numth 
+the numst 
+the nums 
+the numrd 
+the numnd 
+the number 
+the num 
+the nucleus 
+the nuclear 
+the novel 
+the norwegian 
+the northern 
+the north 
+the normal 
+the ninth 
+the nickname 
+the next 
+the newspaper 
+the news 
+the new 
+the network 
+the netherlands 
+the net 
+the neighboring 
+the negative 
+the necessary 
+the nearby 
+the ncaa 
+the nba 
+the nazis 
+the navy 
+the natural 
+the native 
+the national 
+the nation 
+the names 
+the name 
+the muslim 
+the musical 
+the music 
+the museum 
+the movie 
+the movement 
+the move 
+the mouth 
+the mountains 
+the mountain 
+the mother 
+the most 
+the moscow 
+the moon 
+the mongols 
+the mongol 
+the money 
+the monastery 
+the modern 
+the model 
+the mission 
+the minimum 
+the mind 
+the military 
+the middle 
+the mexican 
+the metropolitan 
+the metal 
+the message 
+the men 
+the meeting 
+the medieval 
+the medical 
+the media 
+the may 
+the maximum 
+the matter 
+the material 
+the match 
+the mass 
+the marriage 
+the market 
+the map 
+the manga 
+the male 
+the major 
+the mainstream 
+the mainland 
+the main 
+the magazine 
+the machine 
+the lyrics 
+the lowest 
+the lower 
+the low 
+the lord 
+the longest 
+the long 
+the london 
+the location 
+the local 
+the living 
+the line 
+the light 
+the library 
+the letters 
+the letter 
+the less 
+the legislature 
+the legendary 
+the legal 
+the least 
+the league 
+the leading 
+the lead 
+the law 
+the latter 
+the latin 
+the latest 
+the later 
+the late 
+the last 
+the largest 
+the larger 
+the large 
+the language 
+the land 
+the lake 
+the label 
+the korean 
+the kingdom 
+the king 
+the key 
+the journal 
+the job 
+the jews 
+the jewish 
+the japanese 
+the japan 
+the italian 
+the issue 
+the israeli 
+the islands 
+the island 
+the islamic 
+the iron 
+the irish 
+the iranian 
+the investigation 
+the invasion 
+the internet 
+the international 
+the internal 
+the instrument 
+the institution 
+the inner 
+the initial 
+the information 
+the industry 
+the industrial 
+the individual 
+the indigenous 
+the indian 
+the independent 
+the increasing 
+the increased 
+the incident 
+the inaugural 
+the important 
+the imperial 
+the immediate 
+the image 
+the ideal 
+the idea 
+the ice 
+the hungarian 
+the human 
+the house 
+the host 
+the hospital 
+the horse 
+the historical 
+the historic 
+the hill 
+the highest 
+the higher 
+the high 
+the heavy 
+the heat 
+the gun 
+the guardian 
+the growing 
+the group 
+the ground 
+the green 
+the greeks 
+the greek 
+the greatest 
+the greater 
+the great 
+the grand 
+the governor 
+the government 
+the golden 
+the gold 
+the gods 
+the goddess 
+the god 
+the goal 
+the global 
+the girls 
+the germans 
+the german 
+the genus 
+the genre 
+the general 
+the gas 
+the games 
+the game 
+the future 
+the funeral 
+the fundamental 
+the function 
+the full 
+the fuel 
+the french 
+the free 
+the franchise 
+the fourth 
+the four 
+the formula 
+the former 
+the formal 
+the foreign 
+the force 
+the food 
+the following 
+the flight 
+the fleet 
+the flag 
+the five 
+the first 
+the firm 
+the fire 
+the finnish 
+the financial 
+the final 
+the films 
+the film 
+the file 
+the fighting 
+the fight 
+the fifth 
+the field 
+the few 
+the festival 
+the female 
+the federal 
+the fastest 
+the far 
+the famous 
+the family 
+the eye 
+the extreme 
+the external 
+the existing 
+the executive 
+the exact 
+the evidence 
+the events 
+the event 
+the european 
+the euro 
+the eu 
+the equator 
+the episode 
+the environment 
+the entire 
+the ensuing 
+the english 
+the engine 
+the energy 
+the enemy 
+the empire 
+the emperor 
+the electron 
+the elections 
+the election 
+the eighth 
+the egyptian 
+the effect 
+the economy 
+the economic 
+the eastern 
+the east 
+the earth 
+the early 
+the earliest 
+the earlier 
+the dutch 
+the driver 
+the double 
+the door 
+the dominant 
+the domestic 
+the division 
+the district 
+the distance 
+the disease 
+the director 
+the direct 
+the different 
+the device 
+the desired 
+the design 
+the democratic 
+the decision 
+the deal 
+the dead 
+the date 
+the data 
+the danish 
+the dam 
+the current 
+the cultural 
+the crown 
+the crowd 
+the crisis 
+the crime 
+the crew 
+the crash 
+the cover 
+the court 
+the couple 
+the country 
+the council 
+the corresponding 
+the correct 
+the core 
+the convention 
+the contract 
+the constitution 
+the conflict 
+the conference 
+the confederate 
+the computer 
+the composer 
+the complex 
+the complete 
+the competition 
+the company 
+the community 
+the commonwealth 
+the common 
+the commission 
+the commercial 
+the coming 
+the combined 
+the color 
+the colony 
+the colonial 
+the college 
+the code 
+the coastal 
+the club 
+the closing 
+the classical 
+the classic 
+the civil 
+the city 
+the cia 
+the church 
+the christian 
+the chinese 
+the children 
+the child 
+the chief 
+the chicago 
+the chemical 
+the charts 
+the charge 
+the characters 
+the character 
+the channel 
+the changes 
+the championship 
+the chain 
+the ceremony 
+the central 
+the center 
+the cell 
+the catholic 
+the castle 
+the cast 
+the case 
+the caribbean 
+the car 
+the cape 
+the canal 
+the canadian 
+the campaign 
+the camp 
+the camera 
+the california 
+the byzantine 
+the business 
+the building 
+the buddha 
+the brothers 
+the british 
+the bridge 
+the brazilian 
+the brand 
+the brain 
+the boy 
+the bottom 
+the boston 
+the books 
+the book 
+the body 
+the board 
+the blue 
+the blood 
+the black 
+the bill 
+the biggest 
+the big 
+the bible 
+the better 
+the best 
+the berlin 
+the belgian 
+the beatles 
+the beach 
+the bbc 
+the battle 
+the basic 
+the base 
+the bar 
+the bank 
+the band 
+the ball 
+the axis 
+the award 
+the average 
+the author 
+the austrian 
+the australian 
+the audience 
+the attack 
+the atmosphere 
+the atlantic 
+the assembly 
+the asian 
+the artist 
+the article 
+the art 
+the army 
+the argentine 
+the area 
+the arabic 
+the arab 
+the appropriate 
+the application 
+the apollo 
+the annual 
+the anime 
+the animal 
+the ancient 
+the americas 
+the americans 
+the american 
+the allies 
+the allied 
+the album 
+the airport 
+the airline 
+the aircraft 
+the air 
+the agreement 
+the african 
+the additional 
+the actual 
+the active 
+the action 
+the accident 
+the above 
+the a 
+term for 
+term as 
+ten years 
+temperature of 
+television series 
+tel aviv 
+task force 
+taking place 
+takes place 
+take place 
+são paulo 
+systems of 
+systems are 
+system with 
+system the 
+system that 
+system of 
+system for 
+system as 
+symphony orchestra 
+supreme court 
+support of 
+support for 
+sun quan 
+sun ce 
+summer olympics 
+suitable for 
+suggests that 
+suggesting that 
+suggested that 
+suggest that 
+suburb of 
+subject matter 
+styles of 
+style of 
+study of 
+studio album 
+studies of 
+students who 
+students are 
+structure of 
+stories of 
+stating that 
+states that 
+states of 
+stated that 
+state university 
+state route 
+state park 
+state of 
+started with 
+started on 
+star wars 
+stands for 
+standards of 
+standard for 
+stage of 
+st louis 
+sri lanka 
+speed of 
+speculated that 
+species of 
+species are 
+southeast asia 
+south of 
+south korean 
+south korea 
+south carolina 
+south australia 
+south american 
+south african 
+south africa 
+sources of 
+source of 
+source code 
+sort of 
+soon became 
+soon after 
+song ) 
+son of 
+something that 
+some of 
+solo album 
+soldiers were 
+society of 
+so far 
+smaller than 
+six years 
+six months 
+sir john 
+since then 
+since num 
+signs of 
+signed for 
+shut down 
+shows that 
+showed that 
+show that 
+shot down 
+shortly after 
+short story 
+short stories 
+short of 
+she then 
+she became 
+she also 
+shared with 
+share of 
+several years 
+several times 
+several other 
+several of 
+several months 
+several hundred 
+several different 
+seven years 
+sets of 
+set up 
+set out 
+set of 
+serving as 
+services are 
+served with 
+served as 
+series the 
+series of 
+serie a 
+sequence of 
+september num 
+sense of 
+see also 
+section of 
+secondary school 
+second album 
+season the 
+season he 
+searching for 
+sea level 
+score of 
+science fiction 
+schools of 
+school of 
+school district 
+scheduled for 
+saying that 
+saudi arabia 
+santa fe 
+santa cruz 
+san jose 
+san francisco 
+san diego 
+san antonio 
+sales of 
+saint petersburg 
+run of 
+rugby union 
+room for 
+roman catholic 
+rolling stone 
+rock band 
+risk of 
+right of 
+rhode island 
+revolution of 
+reveals that 
+revealed that 
+restrictions on 
+responsible for 
+responsibility for 
+respectively the 
+respect for 
+reserved for 
+research institute 
+required for 
+republic of 
+reports that 
+reports of 
+reported that 
+rely on 
+relied on 
+released as 
+release of 
+relationship with 
+relations with 
+regular season 
+regions of 
+region of 
+regardless of 
+records of 
+record of 
+record label 
+received an 
+real madrid 
+real estate 
+ready for 
+rather than 
+rates of 
+rate of 
+range of 
+ran for 
+railway station 
+railway line 
+radio stations 
+radio station 
+quickly became 
+queen victoria 
+queen of 
+quantum mechanics 
+put on 
+put into 
+puerto rico 
+published on 
+published as 
+public schools 
+public health 
+provinces of 
+province of 
+provided for 
+proposed that 
+properties of 
+programming language 
+program of 
+program for 
+professor of 
+professional football 
+products of 
+products are 
+production of 
+producer of 
+process of 
+problems with 
+prize for 
+principle of 
+prince of 
+prime minister 
+price of 
+presidential election 
+president of 
+present day 
+prepared for 
+premiered on 
+premier league 
+practice of 
+powers of 
+power of 
+position of 
+portrayal of 
+portion of 
+port of 
+population of 
+popular with 
+popular music 
+political parties 
+policy of 
+point of 
+point for 
+playstation num 
+playing for 
+played with 
+played on 
+played for 
+played at 
+plans for 
+planned for 
+placed on 
+place for 
+pieces of 
+piece of 
+picked up 
+philosophy of 
+personal life 
+periods of 
+period the 
+period of 
+performance of 
+percentage of 
+perceived as 
+per year 
+per second 
+per day 
+per cent 
+per capita 
+pattern of 
+party of 
+parts of 
+pairs of 
+pair of 
+paid for 
+p m 
+ownership of 
+over num 
+outside of 
+out of 
+others were 
+others are 
+other major 
+other languages 
+other countries 
+orthodox church 
+order of 
+or simply 
+or num 
+or less 
+opportunities for 
+operating systems 
+operating system 
+opened on 
+open source 
+only num 
+one of 
+one hundred 
+once more 
+once again 
+on various 
+on these 
+on the 
+on television 
+on stage 
+on several 
+on september 
+on october 
+on num 
+on november 
+on may 
+on march 
+on loan 
+on land 
+on june 
+on july 
+on january 
+on february 
+on earth 
+on each 
+on december 
+on campus 
+on both 
+on board 
+on average 
+on august 
+on april 
+on aggregate 
+olympic games 
+of yugoslavia 
+of young 
+of x 
+of writing 
+of world 
+of wood 
+of women 
+of windows 
+of william 
+of white 
+of western 
+of west 
+of water 
+of washington 
+of war 
+of violence 
+of vietnam 
+of various 
+of using 
+of us 
+of traditional 
+of trade 
+of tokyo 
+of thought 
+of thomas 
+of these 
+of the 
+of thailand 
+of texas 
+of ten 
+of sweden 
+of study 
+of students 
+of state 
+of stars 
+of st 
+of special 
+of spanish 
+of spain 
+of space 
+of soviet 
+of southern 
+of south 
+of songs 
+of society 
+of social 
+of small 
+of six 
+of sir 
+of similar 
+of short 
+of sexual 
+of several 
+of seven 
+of service 
+of september 
+of scotland 
+of scientific 
+of science 
+of santa 
+of san 
+of saint 
+of russian 
+of russia 
+of rome 
+of roman 
+of research 
+of religious 
+of religion 
+of real 
+of queen 
+of public 
+of prussia 
+of production 
+of prince 
+of president 
+of power 
+of portugal 
+of popular 
+of pope 
+of political 
+of poland 
+of physical 
+of personal 
+of peace 
+of parliament 
+of paris 
+of pakistan 
+of others 
+of old 
+of oil 
+of october 
+of num 
+of nuclear 
+of november 
+of northern 
+of north 
+of nine 
+of new 
+of nature 
+of natural 
+of national 
+of naples 
+of music 
+of multiple 
+of mount 
+of motion 
+of money 
+of modern 
+of military 
+of mexico 
+of men 
+of may 
+of matter 
+of mathematics 
+of material 
+of mass 
+of mary 
+of march 
+of making 
+of major 
+of magnitude 
+of love 
+of louis 
+of london 
+of local 
+of living 
+of light 
+of life 
+of law 
+of latin 
+of large 
+of language 
+of land 
+of lake 
+of la 
+of korea 
+of knowledge 
+of king 
+of june 
+of july 
+of john 
+of jewish 
+of jesus 
+of jerusalem 
+of japanese 
+of japan 
+of james 
+of italy 
+of italian 
+of israel 
+of islam 
+of ireland 
+of iran 
+of international 
+of interest 
+of information 
+of individual 
+of indian 
+of india 
+of independence 
+of hungary 
+of human 
+of history 
+of historical 
+of high 
+of henry 
+of heavy 
+of heat 
+of hawaii 
+of having 
+of greek 
+of greece 
+of great 
+of government 
+of gold 
+of god 
+of germany 
+of german 
+of georgia 
+of george 
+of general 
+of french 
+of free 
+of france 
+of formula 
+of former 
+of foreign 
+of food 
+of five 
+of fire 
+of finland 
+of february 
+of every 
+of events 
+of european 
+of europe 
+of english 
+of england 
+of energy 
+of emperor 
+of either 
+of eight 
+of egypt 
+of education 
+of economic 
+of eastern 
+of east 
+of early 
+of each 
+of dna 
+of different 
+of development 
+of denmark 
+of death 
+of david 
+of data 
+of cultural 
+of course 
+of contemporary 
+of constantinople 
+of congress 
+of computer 
+of classical 
+of civil 
+of christianity 
+of christian 
+of christ 
+of choice 
+of chinese 
+of china 
+of children 
+of charles 
+of certain 
+of central 
+of castile 
+of canada 
+of california 
+of business 
+of british 
+of britain 
+of brazil 
+of both 
+of books 
+of blood 
+of black 
+of berlin 
+of bavaria 
+of austria 
+of australia 
+of august 
+of asia 
+of art 
+of around 
+of april 
+of approximately 
+of animals 
+of ancient 
+of american 
+of america 
+of alexandria 
+of alexander 
+of air 
+of african 
+of africa 
+of action 
+of a 
+october num 
+occurred on 
+numth century 
+nums the 
+numbers of 
+numbers are 
+number one 
+number of 
+number num 
+num ° 
+num years 
+num world 
+num with 
+num the 
+num that 
+num september 
+num season 
+num percent 
+num people 
+num or 
+num on 
+num of 
+num october 
+num november 
+num months 
+num mm 
+num minutes 
+num million 
+num men 
+num may 
+num march 
+num m 
+num km 
+num june 
+num july 
+num january 
+num it 
+num in 
+num hours 
+num he 
+num for 
+num february 
+num december 
+num days 
+num copies 
+num census 
+num but 
+num billion 
+num august 
+num at 
+num as 
+num april 
+num after 
+num % 
+nuclear weapons 
+nuclear power 
+november num 
+novel the 
+nova scotia 
+noting that 
+notes that 
+noted that 
+note that 
+not yet 
+not necessarily 
+not available 
+not always 
+northern ireland 
+north of 
+north korean 
+north korea 
+north dakota 
+north carolina 
+north american 
+north america 
+north africa 
+none of 
+nomination for 
+no num 
+no longer 
+nine years 
+new zealand 
+new york 
+new orleans 
+new mexico 
+new jersey 
+new hampshire 
+new guinea 
+new england 
+network of 
+needed for 
+necessary for 
+nearly all 
+nazi germany 
+nature of 
+natural gas 
+native americans 
+native american 
+national team 
+national park 
+names are 
+named after 
+name the 
+name of 
+name for 
+name as 
+name ) 
+music videos 
+music awards 
+museum of 
+much smaller 
+much less 
+moved into 
+most popular 
+most often 
+most of 
+most notably 
+most likely 
+most important 
+most common 
+more than 
+more recently 
+more recent 
+more powerful 
+more popular 
+more often 
+more expensive 
+more efficient 
+more difficult 
+more complex 
+more commonly 
+more common 
+months of 
+months later 
+months after 
+models of 
+model of 
+mode of 
+mm ) 
+mixed with 
+ministry of 
+minister of 
+minister for 
+millions of 
+million copies 
+million ) 
+military service 
+middle east 
+middle ages 
+microsoft windows 
+mi ) 
+mexico city 
+metropolitan area 
+methods of 
+method of 
+met with 
+merged with 
+men who 
+men were 
+members were 
+members of 
+members are 
+member states 
+member of 
+meeting with 
+medical center 
+meant that 
+means that 
+means of 
+meaning that 
+mayor of 
+may num 
+may include 
+match at 
+match against 
+master of 
+martial arts 
+march num 
+many times 
+many of 
+many different 
+manchester united 
+manchester city 
+making them 
+major league 
+major general 
+major cities 
+main line 
+magnitude of 
+magnetic field 
+machine gun 
+m ) 
+lower than 
+love of 
+love for 
+louis xiv 
+loss of 
+los angeles 
+looking for 
+look like 
+longer than 
+long island 
+located at 
+local government 
+live on 
+liu bei 
+list of 
+lines of 
+line of 
+levels of 
+level of 
+less than 
+length of 
+league of 
+league cup 
+layers of 
+layer of 
+law school 
+law enforcement 
+latin american 
+later on 
+late num 
+las vegas 
+larger than 
+languages are 
+language of 
+laid out 
+lack of 
+labour party 
+la liga 
+known as 
+knowledge of 
+know that 
+km ² 
+km ) 
+king of 
+kinds of 
+kind of 
+kansas city 
+june num 
+july num 
+journal of 
+john of 
+january num 
+iv of 
+its use 
+its release 
+its predecessor 
+its peak 
+its own 
+its original 
+its name 
+its members 
+its main 
+its current 
+it took 
+it the 
+it takes 
+it includes 
+it in 
+it features 
+it contains 
+it can 
+it became 
+it also 
+issues of 
+issue of 
+island of 
+is written 
+is widely 
+is usually 
+is unknown 
+is typically 
+is true 
+is traditionally 
+is too 
+is today 
+is thus 
+is therefore 
+is the 
+is taken 
+is sometimes 
+is simply 
+is shown 
+is set 
+is seen 
+is required 
+is relatively 
+is quite 
+is produced 
+is probably 
+is primarily 
+is placed 
+is particularly 
+is often 
+is num 
+is normally 
+is mostly 
+is mainly 
+is located 
+is less 
+is largely 
+is important 
+is highly 
+is held 
+is given 
+is generally 
+is frequently 
+is free 
+is extremely 
+is especially 
+is done 
+is defined 
+is currently 
+is commonly 
+is called 
+is available 
+is approximately 
+is always 
+is almost 
+is actually 
+involved with 
+invasion of 
+interpretation of 
+internet explorer 
+international law 
+international career 
+international airport 
+intended for 
+institute of 
+institute for 
+instead of 
+insisted that 
+information on 
+information about 
+influx of 
+influence on 
+infantry regiment 
+infantry division 
+indicates that 
+indicated that 
+indicate that 
+including those 
+including the 
+including one 
+including an 
+in winter 
+in western 
+in west 
+in water 
+in washington 
+in vietnam 
+in vienna 
+in various 
+in use 
+in turn 
+in turkey 
+in total 
+in toronto 
+in tokyo 
+in this 
+in these 
+in the 
+in that 
+in texas 
+in taiwan 
+in sydney 
+in switzerland 
+in sweden 
+in summer 
+in st 
+in spanish 
+in spain 
+in space 
+in southern 
+in south 
+in some 
+in small 
+in size 
+in six 
+in singapore 
+in several 
+in service 
+in september 
+in seoul 
+in scotland 
+in san 
+in russia 
+in rome 
+in romania 
+in response 
+in recent 
+in real 
+in question 
+in public 
+in production 
+in prison 
+in practice 
+in power 
+in portugal 
+in politics 
+in poland 
+in place 
+in philadelphia 
+in particular 
+in part 
+in paris 
+in pakistan 
+in other 
+in one 
+in office 
+in october 
+in numerous 
+in num 
+in november 
+in norway 
+in northern 
+in north 
+in new 
+in nearby 
+in nature 
+in music 
+in munich 
+in most 
+in moscow 
+in montreal 
+in modern 
+in mind 
+in milan 
+in mexico 
+in may 
+in march 
+in many 
+in london 
+in life 
+in length 
+in latin 
+in later 
+in late 
+in large 
+in la 
+in korea 
+in june 
+in july 
+in jerusalem 
+in japanese 
+in japan 
+in january 
+in italy 
+in israel 
+in ireland 
+in iraq 
+in iran 
+in international 
+in india 
+in hungary 
+in human 
+in hollywood 
+in history 
+in high 
+in greek 
+in greece 
+in government 
+in germany 
+in german 
+in general 
+in full 
+in french 
+in france 
+in five 
+in finland 
+in february 
+in fact 
+in exile 
+in every 
+in european 
+in europe 
+in english 
+in england 
+in either 
+in egypt 
+in effect 
+in eastern 
+in east 
+in early 
+in each 
+in downtown 
+in different 
+in diameter 
+in december 
+in contrast 
+in common 
+in combat 
+in chinese 
+in china 
+in chicago 
+in certain 
+in central 
+in canada 
+in california 
+in c 
+in british 
+in britain 
+in brazil 
+in both 
+in boston 
+in between 
+in berlin 
+in belgium 
+in beijing 
+in battle 
+in austria 
+in australia 
+in august 
+in athens 
+in asia 
+in argentina 
+in areas 
+in april 
+in ancient 
+in an 
+in american 
+in america 
+in all 
+in africa 
+in afghanistan 
+in addition 
+in a 
+in ) 
+important for 
+impact on 
+images of 
+iii of 
+ii of 
+ii ) 
+if you 
+identified as 
+ice hockey 
+ice cream 
+i think 
+i e 
+i am 
+hundreds of 
+hundred years 
+human rights 
+human beings 
+however this 
+however that 
+however some 
+however on 
+however as 
+house of 
+hours of 
+hong kong 
+home runs 
+home run 
+history the 
+history of 
+his works 
+his work 
+his wife 
+his uncle 
+his troops 
+his third 
+his successor 
+his studies 
+his son 
+his sister 
+his right 
+his resignation 
+his previous 
+his post 
+his position 
+his political 
+his personal 
+his party 
+his parents 
+his own 
+his old 
+his name 
+his music 
+his mother 
+his mind 
+his military 
+his men 
+his life 
+his head 
+his friend 
+his former 
+his forces 
+his first 
+his final 
+his fellow 
+his father 
+his early 
+his debut 
+his daughter 
+his cousin 
+his country 
+his contract 
+his childhood 
+his brothers 
+his brother 
+his body 
+his best 
+his army 
+his actions 
+hip hop 
+himself with 
+himself as 
+him the 
+him he 
+higher than 
+higher education 
+high speed 
+high schools 
+high school 
+high quality 
+here are 
+her son 
+her sister 
+her parents 
+her own 
+her mother 
+her life 
+her husband 
+her father 
+her family 
+her daughter 
+her career 
+her brother 
+held that 
+held on 
+held at 
+heavy metal 
+health care 
+head coach 
+he wrote 
+he would 
+he worked 
+he won 
+he went 
+he used 
+he took 
+he thought 
+he then 
+he started 
+he spent 
+he scored 
+he saw 
+he said 
+he remained 
+he published 
+he played 
+he never 
+he met 
+he married 
+he made 
+he lost 
+he later 
+he joined 
+he helped 
+he held 
+he gave 
+he following 
+he finished 
+he felt 
+he died 
+he created 
+he considered 
+he came 
+he began 
+he became 
+he attended 
+he also 
+have used 
+have taken 
+have seen 
+have played 
+have included 
+have different 
+have developed 
+have become 
+has written 
+has worked 
+has won 
+has taken 
+has several 
+has seen 
+has remained 
+has received 
+has produced 
+has played 
+has grown 
+has developed 
+has become 
+harvard university 
+half of 
+groups of 
+groups are 
+group of 
+greater than 
+great britain 
+grandson of 
+grand slam 
+grand prix 
+grammy awards 
+governor of 
+government the 
+government of 
+golden globe 
+gold medals 
+goal for 
+generation of 
+general election 
+gave up 
+games were 
+game num 
+full of 
+ft ) 
+from various 
+from this 
+from these 
+from the 
+from several 
+from num 
+from each 
+from different 
+from china 
+from both 
+freedom of 
+france ) 
+four times 
+four months 
+formula one 
+formula for 
+forms of 
+form of 
+foreign policy 
+foreign minister 
+forces were 
+force of 
+for women 
+for windows 
+for various 
+for this 
+for these 
+for the 
+for students 
+for several 
+for sale 
+for public 
+for num 
+for nearly 
+for military 
+for making 
+for instance 
+for himself 
+for having 
+for future 
+for further 
+for free 
+for food 
+for example 
+for every 
+for each 
+for different 
+for children 
+for centuries 
+for both 
+for best 
+for almost 
+football team 
+football player 
+football league 
+football club 
+football championship 
+football association 
+focusing on 
+focuses on 
+focused on 
+focus on 
+five years 
+five times 
+fitted with 
+first major 
+financial crisis 
+final fantasy 
+film the 
+film festival 
+film ) 
+filled with 
+fields of 
+field of 
+fewer than 
+felt that 
+fell into 
+feed on 
+federation of 
+february num 
+features of 
+featured on 
+feature of 
+feature film 
+fear of 
+faster than 
+far more 
+family of 
+family members 
+families of 
+fa cup 
+f c 
+external links 
+expansion of 
+except for 
+examples of 
+evidence that 
+evidence of 
+evidence for 
+every year 
+every day 
+ever since 
+events that 
+even though 
+european countries 
+euro num 
+ethnic groups 
+ethnic group 
+etc ) 
+et al 
+estimated that 
+episode of 
+entitled the 
+entered into 
+enough for 
+ends with 
+ended up 
+emphasis on 
+eligible for 
+elements of 
+elementary school 
+election of 
+el salvador 
+eight years 
+effects of 
+effect on 
+effect of 
+edition of 
+economic growth 
+economic development 
+east of 
+east germany 
+east asia 
+early years 
+early on 
+early nums 
+early num 
+early life 
+early career 
+earl of 
+each year 
+each other 
+e g 
+during this 
+duke of 
+duchess of 
+dozens of 
+doing so 
+does not 
+doctor of 
+doc id 
+div id 
+districts of 
+district of 
+distance of 
+discovered that 
+director of 
+died on 
+died of 
+died at 
+development of 
+despite this 
+despite being 
+designed for 
+description of 
+depends on 
+depending on 
+dependent on 
+depend on 
+demonstrated that 
+demand for 
+degree of 
+definition of 
+decorated with 
+declared that 
+decided that 
+december num 
+debut on 
+debut album 
+dealt with 
+deals with 
+dealing with 
+deal with 
+de la 
+de france 
+de facto 
+days of 
+days later 
+days before 
+days after 
+day the 
+daughter of 
+date of 
+cycle of 
+cut off 
+cup final 
+crown prince 
+criticism of 
+critical of 
+credited with 
+covered with 
+course of 
+coupled with 
+count of 
+council of 
+costa rica 
+cost of 
+copies of 
+convinced that 
+control over 
+control of 
+continued until 
+contact with 
+consumption of 
+consists of 
+consisting of 
+consisted of 
+consist of 
+connected with 
+confirmed that 
+concluded that 
+concerned with 
+conception of 
+concept of 
+concentration of 
+concentrated on 
+computer science 
+composed of 
+competition for 
+compatible with 
+compared with 
+community of 
+communist party 
+common law 
+committee on 
+committed suicide 
+commission on 
+commercial success 
+commented that 
+command of 
+comic book 
+come into 
+combined with 
+combination of 
+college of 
+collections of 
+collection of 
+collaborated with 
+coast of 
+club career 
+climate change 
+classification of 
+classical music 
+classes of 
+class of 
+claims that 
+claims of 
+claiming that 
+claimed that 
+claim that 
+civil war 
+civil rights 
+city of 
+city council 
+cities of 
+choice of 
+china the 
+children with 
+children were 
+children of 
+child of 
+charged with 
+characters are 
+characteristic of 
+chance of 
+champions league 
+ceo of 
+century the 
+century bce 
+century bc 
+century ad 
+century ) 
+centre of 
+central america 
+center for 
+cause of 
+cases of 
+carried out 
+carbon dioxide 
+capital of 
+cape town 
+capacity of 
+capable of 
+cao cao 
+can use 
+can see 
+can occur 
+can cause 
+campaign of 
+came under 
+came out 
+came on 
+came into 
+calls for 
+calling for 
+called the 
+called for 
+call for 
+c ) 
+by william 
+by various 
+by using 
+by the 
+by taking 
+by sir 
+by several 
+by robert 
+by richard 
+by president 
+by pope 
+by peter 
+by paul 
+by num 
+by michael 
+by making 
+by local 
+by law 
+by king 
+by john 
+by james 
+by having 
+by german 
+by george 
+by general 
+by french 
+by former 
+by dr 
+by david 
+by charles 
+by british 
+by both 
+by american 
+by adding 
+bureau of 
+built up 
+buildings were 
+buenos aires 
+brother of 
+broke out 
+broadcast on 
+british columbia 
+branch of 
+box office 
+both sides 
+born num 
+book the 
+book of 
+boeing num 
+body of 
+board of 
+bishop of 
+between two 
+between them 
+between num 
+better than 
+below ) 
+believing that 
+believes that 
+believed that 
+believe that 
+beginning with 
+began on 
+become more 
+because of 
+became popular 
+became more 
+became increasingly 
+became an 
+be given 
+be called 
+bce ) 
+bc ) 
+bayern munich 
+battle of 
+based upon 
+based on 
+based at 
+bank of 
+band the 
+ban on 
+b c 
+aware of 
+award for 
+average of 
+available on 
+available for 
+author of 
+august num 
+attacks on 
+attack on 
+at various 
+at times 
+at the 
+at st 
+at sea 
+at once 
+at number 
+at num 
+at no 
+at least 
+at high 
+at fort 
+at first 
+at each 
+at around 
+at age 
+aston villa 
+association with 
+association of 
+association football 
+associated with 
+asserted that 
+aspects of 
+aspect of 
+asked for 
+as with 
+as the 
+as such 
+as president 
+as possible 
+as of 
+as having 
+as follows 
+as far 
+as both 
+as an 
+arrived at 
+around num 
+army group 
+armed with 
+armed forces 
+arguing that 
+argues that 
+argued that 
+argue that 
+areas of 
+area with 
+area the 
+area of 
+area for 
+are usually 
+are used 
+are typically 
+are sometimes 
+are shown 
+are produced 
+are often 
+are mostly 
+are located 
+are listed 
+are less 
+are known 
+are important 
+are held 
+are given 
+are generally 
+are formed 
+are different 
+are currently 
+are considered 
+are commonly 
+are common 
+are called 
+are both 
+are available 
+april num 
+approximately num 
+appeared on 
+appeared as 
+appearance on 
+announced that 
+announced on 
+analysis of 
+an unknown 
+an overall 
+an organization 
+an order 
+an option 
+an open 
+an online 
+an older 
+an old 
+an official 
+an object 
+an num 
+an italian 
+an island 
+an irish 
+an international 
+an internal 
+an initial 
+an individual 
+an independent 
+an important 
+an ideal 
+an hour 
+an honorary 
+an extremely 
+an extra 
+an external 
+an extensive 
+an extended 
+an excellent 
+an event 
+an estimated 
+an entire 
+an english 
+an enemy 
+an electric 
+an effective 
+an economic 
+an early 
+an earlier 
+an attack 
+an article 
+an army 
+an annual 
+an ancient 
+an american 
+an alternative 
+an air 
+an adult 
+an administrative 
+an additional 
+an active 
+an action 
+amounts of 
+amount of 
+among them 
+among others 
+among other 
+amino acids 
+although there 
+also took 
+also received 
+also provides 
+also provided 
+also produced 
+also introduced 
+also includes 
+also included 
+also features 
+also featured 
+also contains 
+also called 
+also became 
+along with 
+almost entirely 
+almost always 
+almost all 
+allows for 
+allowed for 
+allow for 
+alleged that 
+all three 
+all these 
+all of 
+album the 
+album ) 
+aired on 
+aircraft were 
+aircraft carrier 
+air force 
+aimed at 
+ahead of 
+age of 
+after this 
+after that 
+after being 
+african americans 
+african american 
+adolf hitler 
+admitted that 
+added that 
+acts of 
+acted as 
+act of 
+act as 
+accused of 
+accounts of 
+accounts for 
+accounted for 
+academy awards 
+about num 
+a young 
+a world 
+a working 
+a word 
+a woman 
+a win 
+a wider 
+a whole 
+a white 
+a web 
+a wealthy 
+a water 
+a war 
+a village 
+a video 
+a victory 
+a vector 
+a vast 
+a user 
+a us 
+a university 
+a unique 
+a typical 
+a true 
+a tree 
+a treaty 
+a traditional 
+a town 
+a title 
+a thousand 
+a third 
+a thin 
+a test 
+a term 
+a temporary 
+a television 
+a target 
+a system 
+a surprise 
+a successful 
+a substantial 
+a study 
+a student 
+a strong 
+a story 
+a statement 
+a star 
+a standard 
+a speech 
+a specific 
+a special 
+a spanish 
+a song 
+a son 
+a solid 
+a social 
+a smaller 
+a small 
+a slightly 
+a situation 
+a single 
+a simple 
+a similar 
+a significant 
+a show 
+a short 
+a ship 
+a severe 
+a set 
+a service 
+a serious 
+a separate 
+a senior 
+a secret 
+a secondary 
+a second 
+a russian 
+a roman 
+a role 
+a rich 
+a report 
+a religious 
+a relatively 
+a regular 
+a regional 
+a red 
+a record 
+a recent 
+a real 
+a public 
+a prominent 
+a project 
+a program 
+a professional 
+a problem 
+a private 
+a primary 
+a priest 
+a powerful 
+a power 
+a potential 
+a post 
+a possible 
+a positive 
+a position 
+a popular 
+a poor 
+a political 
+a point 
+a player 
+a place 
+a physical 
+a personal 
+a person 
+a permanent 
+a perfect 
+a penalty 
+a party 
+a particular 
+a paper 
+a number 
+a num 
+a nuclear 
+a novel 
+a notable 
+a normal 
+a new 
+a negative 
+a nearby 
+a natural 
+a national 
+a narrow 
+a name 
+a musical 
+a museum 
+a movie 
+a move 
+a month 
+a modern 
+a mixed 
+a minority 
+a minor 
+a minimum 
+a military 
+a message 
+a mere 
+a memorial 
+a meeting 
+a medium 
+a medical 
+a maximum 
+a massive 
+a mass 
+a male 
+a major 
+a main 
+a lower 
+a low 
+a lot 
+a longer 
+a long 
+a local 
+a living 
+a live 
+a little 
+a linear 
+a line 
+a limited 
+a light 
+a life 
+a less 
+a legal 
+a leading 
+a lawyer 
+a law 
+a late 
+a larger 
+a large 
+a language 
+a key 
+a joint 
+a job 
+a jewish 
+a japanese 
+a hundred 
+a human 
+a huge 
+a house 
+a hospital 
+a horse 
+a hit 
+a historical 
+a highly 
+a higher 
+a high 
+a heavy 
+a head 
+a hard 
+a growing 
+a group 
+a greek 
+a greater 
+a great 
+a government 
+a goal 
+a global 
+a given 
+a girl 
+a german 
+a general 
+a gas 
+a future 
+a further 
+a fully 
+a full 
+a friend 
+a french 
+a free 
+a fourth 
+a former 
+a formal 
+a foreign 
+a force 
+a football 
+a flat 
+a fixed 
+a fire 
+a finite 
+a fine 
+a final 
+a film 
+a field 
+a few 
+a fellow 
+a federal 
+a famous 
+a family 
+a european 
+a dramatic 
+a dozen 
+a double 
+a distinct 
+a direct 
+a digital 
+a different 
+a design 
+a deep 
+a decision 
+a decade 
+a daughter 
+a dark 
+a cultural 
+a critical 
+a court 
+a country 
+a controversial 
+a contract 
+a continuous 
+a constant 
+a considerable 
+a concert 
+a computer 
+a comprehensive 
+a complex 
+a complete 
+a community 
+a common 
+a commercial 
+a combined 
+a closed 
+a close 
+a clear 
+a civil 
+a city 
+a circle 
+a church 
+a christian 
+a chinese 
+a child 
+a character 
+a certain 
+a century 
+a central 
+a catholic 
+a case 
+a career 
+a car 
+a canadian 
+a campaign 
+a business 
+a building 
+a broad 
+a british 
+a brief 
+a boy 
+a book 
+a blue 
+a black 
+a bit 
+a big 
+a better 
+a battle 
+a basic 
+a band 
+a b 
+( with 
+( who 
+( usually 
+( us 
+( typically 
+( though 
+( this 
+( then 
+( the 
+( sometimes 
+( since 
+( september 
+( see 
+( r 
+( particularly 
+( or 
+( one 
+( on 
+( often 
+( of 
+( october 
+( née 
+( num 
+( now 
+( november 
+( not 
+( most 
+( modern 
+( meaning 
+( may 
+( march 
+( literally 
+( like 
+( later 
+( including 
+( if 
+( i 
+( german 
+( formerly 
+( for 
+( except 
+( especially 
+( died 
+( december 
+( d 
+( chinese 
+( called 
+( ca 
+( c 
+( but 
+( both 
+( born 
+( b 
+( at 
+( as 
+( april 
+( an 
+( although 
+( also 
+( all 
+( after 
+( about 
+( a 
+( ) 
+& amp 
+% for 
+% ) 
+==============================================================================
+   1  to the ground 
+   1  to the 
+   1  the ground 
+   1  a computer 

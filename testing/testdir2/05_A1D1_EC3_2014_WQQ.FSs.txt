@@ -1,0 +1,13 @@
+==============================================================================
+List of items of formulaic language found in 05_A1D1_EC3_2014_WQQ and their frequencies
+(these might overlap in the annotated text)
+produced by fl-density.sh, version 0.5 on Sun 17 Jan 2021 17:51:04 GMT
+FL-database used: /Users/andy/FL-density/testdir2/SP_database_file_uniq.dat
+------------------------------------------------------------------------------
+unconsolidated fl-tokens: 3
+unconsolidated fl-types:  3
+TTR: 1.000
+==============================================================================
+ who go to 	1
+ are a number of reasons 	1
+ a number of reasons why 	1

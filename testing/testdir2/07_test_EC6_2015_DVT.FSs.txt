@@ -1,0 +1,79 @@
+==============================================================================
+List of items of formulaic language found in 07_test_EC6_2015_DVT and their frequencies
+(these might overlap in the annotated text)
+produced by fl-density.sh, version 0.5 on Sun 17 Jan 2021 17:51:12 GMT
+FL-database used: /Users/andy/FL-density/testdir2/SP_database_file_uniq.dat
+------------------------------------------------------------------------------
+unconsolidated fl-tokens: 79
+unconsolidated fl-types:  69
+TTR: .873
+==============================================================================
+ to increase the 	5
+ who want to have 	3
+ who want to 	3
+ will continue to 	2
+ it is difficult for 	2
+ would be to increase the 	1
+ would be to increase 	1
+ would be implemented by the 	1
+ would be implemented by 	1
+ will continue to increase 	1
+ will continue to be 	1
+ will also suggest a possible 	1
+ very serious problem 	1
+ understand why this problem exists 	1
+ to understand why this problem 	1
+ to solve this 	1
+ to decrease the 	1
+ this solution would be to 	1
+ this solution has one important 	1
+ this solution has one 	1
+ this solution has 	1
+ this reason it is important 	1
+ this problem exists 	1
+ this essay will focus on 	1
+ this essay has offered one 	1
+ this essay has 	1
+ suggest a possible solution to 	1
+ solution would be implemented by 	1
+ solution to this problem 	1
+ solution to the problem of 	1
+ solution has one important limitation 	1
+ results in high rate of 	1
+ reason it is important to 	1
+ possible solution to this problem 	1
+ possible solution to the problem 	1
+ one of the main 	1
+ one important limitation 	1
+ offered one possible solution 	1
+ offered one possible 	1
+ of this solution would be 	1
+ means that there are 	1
+ means that there 	1
+ main cause of 	1
+ it is important to understand 	1
+ it is important to 	1
+ it is important 	1
+ is very serious 	1
+ is important to understand why 	1
+ important to understand why this 	1
+ important negative effects 	1
+ has three important negative effects 	1
+ has one important limitation 	1
+ has offered one possible solution 	1
+ focus of this solution would 	1
+ focus of this 	1
+ essay has offered one possible 	1
+ does more to solve this 	1
+ does more to 	1
+ continue to increase 	1
+ can be defined as when 	1
+ but this essay will focus 	1
+ but this essay has offered 	1
+ benefit of this is that 	1
+ benefit of this is 	1
+ are two reasons 	1
+ also suggest a possible solution 	1
+ afford to ignore 	1
+ a possible solution to this 	1
+ a complicated problem 	1

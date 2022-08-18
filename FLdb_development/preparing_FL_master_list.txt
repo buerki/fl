@@ -1,0 +1,21 @@
+Preparing a FL master list
+==========================
+
+1) select/compile list of format
+       n_gram_one_
+       n_gram_two_
+	   ...
+	   
+2) use fl-density.sh -s DATABASE to transform it
+   (this orders the expressions from longest to shortest)
+   
+
+
+Compilation of the FLdb.dat database
+====================================
+
+The FLdb.dat file contains formulaic sequences automatically extracted from a 10-million word sample of the English language Wikipedia dump (as detailed in Buerki, 2016). Additional items from a phrasal expression list (Martinez and Schmitt, 2012) were added to better cater for more informal registers. The database contains 27,817 entries.
+
+In detail, the Wikipedia-extracted list was modified such that expressions containing abstract labels like 'NE', 'NMONTH' and 'NUM' had those items removed if they occurred at either end of the expression, otherwise the whole expression was removed. Sequences that ended up consisting of single word were removed as well. The Phrasal List was only slighly adapted (removing parenthetical remarks and spelling out common options as separate entries). The lists were then combined (removing duplicates) and ordered using fl-density.sh -s. Taking account of the way fl-density.sh processes text, expression-medial punctuation (such as quotation marks or apostrophes) need to be spaced correctly, that is with a space before but not (necessarily) after it, e.g. __the_world_'s__ rather than __the_world_'_s__.
+
+This results in a database of 27,817 entries.

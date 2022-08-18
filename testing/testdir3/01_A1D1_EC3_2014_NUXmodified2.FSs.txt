@@ -1,0 +1,12 @@
+==============================================================================
+List of items of formulaic language found in 01_A1D1_EC3_2014_NUXmodified2 and their frequencies
+(these might overlap in the annotated text)
+produced by fl-density.sh, version 0.5 on Fri 29 Jan 2021 09:08:42 GMT
+FL-database used: /Users/andy/FL-density/testdir3/testdb.dat
+------------------------------------------------------------------------------
+unconsolidated fl-tokens: 3
+unconsolidated fl-types:  2
+TTR: .666
+==============================================================================
+ there are a lot of 	2
+ second there are a lot of 	1

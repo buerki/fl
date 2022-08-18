@@ -1,0 +1,108 @@
+List of items of formulaic language found in k11923336.1 and their frequencies
+(these might overlap in the annotated text)
+produced by fl-density.sh, version 0.3.4 on Tue 12 May 2020 16:18:56 BST
+FL-database used: /Users/andy/FL-density/testdir2/FLtestdb.dat
+==============================================================================
+A total of 132 unconsolidated tokens of formulaic language were found in k11923336.1:
+ types of 	5
+ of the 	5
+ in a 	5
+ as the 	4
+ the same 	3
+ for the 	3
+ does not 	3
+ there are 	2
+ the solution 	2
+ the lowest 	2
+ the future 	2
+ the average 	2
+ people ' s 	2
+ number of 	2
+ is often 	2
+ a certain 	2
+ with the 	1
+ while there 	1
+ very low 	1
+ very high 	1
+ use of 	1
+ type of 	1
+ twice as 	1
+ to spread 	1
+ to prevent 	1
+ to pay 	1
+ to me 	1
+ to introduce 	1
+ to ensure that 	1
+ to ensure 	1
+ to eliminate 	1
+ to develop 	1
+ to buy 	1
+ times as 	1
+ this type of 	1
+ they are 	1
+ the worst 	1
+ the world 	1
+ the work 	1
+ the use of 	1
+ the system 	1
+ the same time 	1
+ the opposite 	1
+ the highest 	1
+ the following 	1
+ the economy 	1
+ the current 	1
+ the case 	1
+ the bottom 	1
+ system that 	1
+ such as the 	1
+ some of 	1
+ sense of 	1
+ saying that 	1
+ revealed that 	1
+ responsibility for 	1
+ required for 	1
+ rather than 	1
+ other countries 	1
+ on average 	1
+ of life 	1
+ of each 	1
+ of course 	1
+ of a 	1
+ not necessarily 	1
+ no longer 	1
+ more than 	1
+ more difficult 	1
+ less than 	1
+ it is not 	1
+ is therefore 	1
+ is the 	1
+ is important 	1
+ is actually 	1
+ in their own 	1
+ in the 	1
+ in terms of 	1
+ in other 	1
+ in many 	1
+ in a single 	1
+ i e 	1
+ for various 	1
+ for food 	1
+ effect on 	1
+ because of 	1
+ available for 	1
+ at the 	1
+ at no 	1
+ as an 	1
+ around the world 	1
+ are no longer 	1
+ amount of 	1
+ a single 	1
+ a power 	1
+ a minimum 	1
+ a matter of 	1
+ a lot of 	1
+ a lot 	1
+ a large number of 	1
+ a large 	1
+ a different 	1
+ a better 	1

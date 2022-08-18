@@ -1,0 +1,35 @@
+==============================================================================
+List of items of formulaic language found in 08_test_EC6_2015_XZZ and their frequencies
+(these might overlap in the annotated text)
+produced by fl-density.sh, version 0.5.3 on Wed 10 Mar 2021 20:13:54 GMT
+FL-database used: /Users/andy/FL-density/testdir1/SP_database_file_uniq.dat
+------------------------------------------------------------------------------
+unconsolidated fl-tokens: 31
+unconsolidated fl-types:  25
+TTR (uncons.): .806
+==============================================================================
+ very serious problem 	2
+ to solve this 	2
+ there are not enough 	2
+ of this problem 	2
+ is very serious problem 	2
+ is very serious 	2
+ to solve this problem 	1
+ this reason it is important 	1
+ this essay will focus on 	1
+ solution to this problem 	1
+ reason it is important to 	1
+ means that there are 	1
+ means that there 	1
+ main cause of 	1
+ it is important to 	1
+ it is important 	1
+ it is difficult for 	1
+ has discussed one main cause 	1
+ focus on one 	1
+ essay will focus on one 	1
+ essay has discussed one main 	1
+ discussed one main cause of 	1
+ discussed one main 	1
+ cause of the 	1
+ afford to ignore 	1
