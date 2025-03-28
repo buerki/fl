@@ -4,7 +4,7 @@ release notes v. 0.5.4
 - replaced egrep with grep -E commands to avoid unnecessary warnings
 - install.sh: changed install directory to /usr/local/bin rather than $HOME/bin
 - updated README file, including update to installation and operation instructions
-- licenced the software under the EUPL 1.2 licence
+- licensed the software under the EUPL 1.2
 - re-tested installation and operation on MacOS
 - added exit option to the main menu of fl.sh
 
