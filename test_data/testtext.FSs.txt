@@ -1,0 +1,10 @@
+List of items of formulaic language found in texttext and their frequencies
+(these might overlap in the annotated text)
+produced by fl-density.sh, version 0.3.4 on Tue 12 May 2020 16:19:04 BST
+FL-database used: FLtestdb.dat
+==============================================================================
+A total of 4 unconsolidated tokens of formulaic language were found in texttext:
+ to introduce 	1
+ the subject 	1
+ that ' s 	1
+ can ' t 	1
