@@ -1,4 +1,4 @@
-FL 0.5.4
+FL 0.5.5
 ======================
 
 
@@ -14,19 +14,18 @@ fl.sh is a shell script that facilitates the following tasks:
 All of these functions require a source list of expressions to be available.
 
 ### SUPPORTED PLATFORMS
-This version was tested and validated on MacOS BigSur, but should work on later versions of MacOS and on other distributions based on BSD Linux.
+This version is tested and validated on MacOS BigSur and Manjaro Linux, but should work on later versions of MacOS and on other distributions based on BSD and Linux.
 
 
 ### INSTALLATION
 
-
 Some functions of this software require the N-Grams Package (NGP) to be installed first. The NGP can be obtained from [here](http://buerki.github.io/ngramprocessor/). Once the NGP is installed, follow the instructions below.
 
-To permanently install the programme so it can be run from the command line in a terminal, double-click on the `OSX_installer.command` (on MacOS; if permission denied, right-click > open > open), or place the `fl.sh`, `fl-density.sh` and `tidy.sh` files in the directory `/usr/local/bin`. <!--The programme can also be run without being permanently installed (see next section).-->
+To permanently install the programme so it can be run from the command line in a terminal, place the `fl.sh`, `fl-density.sh` and `tidy.sh` files (they are in the `bin` directory) into the directory `/usr/local/bin`. Alternatively, double-click (on Manjaro, right-click and choose 'run as program') on the `installer.command` (on MacOS, if permission denied, right-click on the installer, then 'open' and 'open' again. If an error message says 'shell-init: error retrieving current directory', try opening a Terminal window, then type `cd ` (with a space after) and move the `fl_0.5.x` directory into the Terminal window, then press ENTER. After this, double-clicking on `installer.command` should work). <!--The programme can also be run without being permanently installed (see next section).-->
 
 ### OPERATION
 
-Open a Terminal application window (on MacOS, located under Applications > Utilities > Terminal; on Linux typically under Applications > Accessories > Terminal). If the programme was permanently installed, type the following and press ENTER:
+Open a Terminal application window and type the following, then press ENTER:
 
 		  fl.sh
 
@@ -36,7 +35,7 @@ The following screen should then appear:
 
 
           FL
-          version 0.6
+          version 0.5.5
 
 
           A   annotate a text file with occurrences of formulaic sequences.
@@ -66,7 +65,7 @@ More advanced features are available by calling the programme `fl-density.sh`. A
 
 #### TESTS
 
-To test the operation of `fl` a number of test data files are included in the `test_data` directory. Those can be used to test the software and compare outputs. Test files include the following:
+To test the operation of `fl` a number of test data files are included in the `test_data` directory. Those can be used to test the software and compare outputs. Please note that depending on the platform, there may be very slight variations in figures, especially consolidated frequencies. Test files include the following:
 
 - `MSlist.dat` database of expressions included in the Phrasal Expressions list by Martinez and Schmitt, 2012 (doi:10.1093/applin/ams010)
 - `FLtestdb.dat` database of 4,500 phrases extracted from Wikipedia dumps.
@@ -74,10 +73,9 @@ To test the operation of `fl` a number of test data files are included in the `t
 - `testtext.txt` a test text file
 - `testtext.FSs.txt` list of expressions from the `FLtestdb.dat` database found in `testtext.txt` using the 'L' option.
 - `testtext.md` is the `testtext.txt` input file, marked up with the expressions in `FLtestdb.dat` and saved as markdown file.
-
-
-<!-- [comment]: `Fanon.FSs.txt` list of expressions from the `MSlist.dat` database found in `Fanon.txt` using the 'L' option.
-- `Fanon.md` is the `Fanon.txt` input file, marked up with the expressions in `MSlist.dat` and saved as markdown file.-->
+- `Fanon.FSs.txt` list of expressions from the `MSlist.dat` database found in `Fanon.txt` using the 'L' option.
+- `Fanon.md` is the `Fanon.txt` input file, marked up with the expressions in `MSlist.dat` and saved as markdown file.
+- `tallies_Fanon+MSlist.txt` shows the results of the `w` option with input files `Fanon.txt` and `MSlist.dat`.
 
 
 
@@ -92,7 +90,7 @@ fl was written by [Andreas Buerki](https://www.cardiff.ac.uk/people/view/148384-
 #### COPYRIGHT
 
 This software is (c) 2017, 2020, 2021, 2025 Cardiff University.
-Licensed under the EUPL v1.2 or later. (the European Union Public Licence) which is an open-source licence (see the LICENSE.txt file for the full licence).
+Licensed under the EUPL v1.2 (the European Union Public Licence) which is an open-source licence (see the LICENSE.txt file for the full licence).
 
 The project resides at [http://buerki.github.com/fl/](http://buerki.github.com/fl/) and new versions will be posted there. Suggestions and feedback are welcome. To be notified of new releases, click on the 'Watch' button at the above address and sign in.
 

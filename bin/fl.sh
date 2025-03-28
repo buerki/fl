@@ -4,7 +4,7 @@ export PATH="$PATH:/usr/local/bin:/usr/bin:/bin:"$HOME/bin"" # needed for Cygwin
 # written by Andreas Buerki
 # requires fl-density.sh and its dependencies, incl. tidy.sh
 ####
-version="0.5.4"
+version="0.5.5"
 copyright="(c) 2017, 2020, 2021, 2025 Cardiff University; Licensed under the EUPL v. 1.2 or later"
 # DESCRRIPTION: annotates texts with formulae from a database
 #

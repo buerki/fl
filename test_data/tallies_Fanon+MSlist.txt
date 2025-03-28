@@ -1,0 +1,16 @@
+--- final tallies: 111 fl-word tokens (consolidated), 48 fl-tokens (consolidated) ---
+===========================================================================
+document                                                          Fanon.txt
+wordcount                                                              4689
+fl-word tokens (unconsolidated)                                         113
+fl-density (based on unconsolid. fl-word tokens)                    .024098
+fl-word tokens (consolidated)                                           111
+fl-density (based on consolid. fl-word tokens)                      .023672
+fl-types (unconsolidated)                                                31
+fl-tokens (unconsolidated)                                               49
+TTR (unconsolidated)                                                   .632
+fl-types (consolidated)                                                  31
+fl-tokens (consolidated)                                                 48
+TTR (consolidated)                                                     .645
+---------------------------------------------------------------------------
+

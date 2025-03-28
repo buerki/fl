@@ -2,7 +2,7 @@
 ##############################################################################
 # fl-density.sh 
 copyright="(c) Cardiff University 2016, 2017, 2020, 2021, 2025; Licensed under the EUPL v. 1.2 or later written by Andreas Buerki"
-version='0.5.4'
+version='0.5.5'
 ####
 # DESCRRIPTION: calculates formulaic language density of a text, given a database
 # SYNOPSIS:     fl-density.sh FILE/DIR DATABASE
@@ -736,7 +736,7 @@ for doc in $docs; do
 		if [ $fl_types_unconsolidated -gt 0 ]; then
 			TTR_uncons=$(echo "scale=3; $fl_types_unconsolidated/$fl_tokens_unconsolidated" | bc)
 		fi
-		echo "TTR (uncons.): $TTR_uncons" >>  $output_filename
+		echo "TTR (unconsolidated): $TTR_uncons" >>  $output_filename
 		echo "==============================================================================" >>  $output_filename
 		cat $SCRATCHDIR/fls+freqs.txt >> $output_filename
 		if [ "$list" ]; then
@@ -804,11 +804,7 @@ for doc in $docs; do
 		annotation_pass
 		if [ -z "$fifth_pass" ]; then
 			# undo adjustments made earlier for the sake of processing and place output in pwd
-			if [ "$CYGWIN" ]; then
-				assembled_txt="$(sed $extended -e 's/^ //' -e 's/([[:alnum:]]|\)) ([,;:.?!-])/\1\2/g' -e "s/([[:alnum:]]) '([[:lower:]])/\1'\2/g" -e 's/  –/ –/g' -e 's/ \)/\)/g'<<<"$assembled_txt")"
-			else
-				assembled_txt="$(sed $extended -e 's/^ //' -e 's/([[:alnum:]]|\)) ([,;:.?!-])/\1\2/g' -e "s/([[:alnum:]]) '([[:lower:]])/\1'\2/g" -e 's/  –/ –/g' -e 's/ )/)/g'<<<"$assembled_txt")"
-			fi
+			assembled_txt="$(sed $extended -e 's/^ //' -e 's/([[:alnum:]]|\)) ([,;:.?!-])/\1\2/g' -e "s/([[:alnum:]]) '([[:lower:]])/\1'\2/g" -e 's/  –/ –/g' -e 's/ \)/)/g'<<<"$assembled_txt")"
 		fi
 		# fifth pass if requested
 		if [ "$fifth_pass" ]; then
@@ -817,11 +813,11 @@ for doc in $docs; do
 			fi
 			annotation_pass
 			# undo adjustments made earlier for the sake of processing and place output in pwd
-		assembled_txt="$(sed $extended -e 's/^ //' -e 's/([[:alnum:]]|\)) ([,;:.?!-])/\1\2/g' -e "s/([[:alnum:]]) '([[:lower:]])/\1'\2/g" -e 's/  –/ –/g' -e 's/ )/)/g'<<<"$assembled_txt")"
+		assembled_txt="$(sed $extended -e 's/^ //' -e 's/([[:alnum:]]|\)) ([,;:.?!-])/\1\2/g' -e "s/([[:alnum:]]) '([[:lower:]])/\1'\2/g" -e 's/  –/ –/g' -e 's/ \)/)/g'<<<"$assembled_txt")"
 		fi
 	else
 		# undo adjustments made earlier for the sake of processing and place output in pwd
-assembled_txt="$(sed $extended -e 's/^ //' -e 's/([[:alnum:]]|\)) ([,;:.?!-])/\1\2/g' -e "s/([[:alnum:]]) '([[:lower:]])/\1'\2/g" -e 's/  –/ –/g' -e 's/ )/)/g'<<<"$assembled_txt")"
+assembled_txt="$(sed $extended -e 's/^ //' -e 's/([[:alnum:]]|\)) ([,;:.?!-])/\1\2/g' -e "s/([[:alnum:]]) '([[:lower:]])/\1'\2/g" -e 's/  –/ –/g' -e 's/ \)/)/g'<<<"$assembled_txt")"
 	fi
 	#############################
 	# if annotation required, re-assemble sections, run another pass and put annotated files in pwd
@@ -1029,27 +1025,27 @@ $word"
 			# if based on unconsolidated number of word tokens:
 			if [ "$unconsolidated" ] && [ -z "$number" ]; then
 				if [ $current_doc_number == 1 ]; then
-					echo "document	wordcount	fl-word tokens (unconsolidated)	fl-density (unconsolidated)	fl-types (uncons.)	fl-tokens (uncons.)" >> $SCRATCHDIR/result.csv
+					echo "document	wordcount	fl-word tokens (unconsolidated)	fl-density (unconsolidated)	fl-types (unconsolidated)	fl-tokens (unconsolidated)" >> $SCRATCHDIR/result.csv
 				fi
 				echo "$doc	$tokencount	$fl_word_tokens_unconsolidated	$fl_density	$fl_types_unconsolidated	$fl_tokens_unconsolidated" >> $SCRATCHDIR/result.csv
 			# if based on number of unconsolidated fs-tokens:
 			elif [ "$number" ]; then
 				if [ "$unconsolidated" ]; then
 					if [ $current_doc_number == 1 ]; then
-						echo "document	wordcount	fl-tokens (uncons.)	fl-density	fl-types (uncons.)" >> $SCRATCHDIR/result.csv
+						echo "document	wordcount	fl-tokens (unconsolidated)	fl-density	fl-types (unconsolidated)" >> $SCRATCHDIR/result.csv
 					fi
 					echo "$doc	$tokencount	$fl_tokens_unconsolidated	$fl_density	$fl_types_unconsolidated" >> $SCRATCHDIR/result.csv
 				# if based on number of consolidated fl-tokens
 				else
 					if [ $current_doc_number == 1 ]; then
-						echo "document	wordcount	fl-tokens (consolidated)	fl-density (consolid.)	fl-types (uncons.)" >> $SCRATCHDIR/result.csv
+						echo "document	wordcount	fl-tokens (consolidated)	fl-density (consolid.)	fl-types (unconsolidated)" >> $SCRATCHDIR/result.csv
 					fi
 					echo "$doc	$tokencount	$fl_tokens_consolidated	$fl_density	$fl_types_unconsolidated" >> $SCRATCHDIR/result.csv
 				fi
 			# if based on consolidated number of word tokens
 			else
 				if [ $current_doc_number == 1 ]; then
-					echo "document	wordcount	fl-word tokens (cons.)	fl-density (cons.)	fl-types (uncons.)	fl-tokens (uncons.)	TTR (uncons.)	fl-types (cons.)	fl-tokens (cons.)	TTR (cons.)" >> $SCRATCHDIR/result.csv
+					echo "document	wordcount	fl-word tokens (cons.)	fl-density (cons.)	fl-types (unconsolidated)	fl-tokens (unconsolidated)	TTR (unconsolidated)	fl-types (cons.)	fl-tokens (cons.)	TTR (cons.)" >> $SCRATCHDIR/result.csv
 				fi
 				# calculate TTRs
 				if [ $fl_types_unconsolidated -gt 0 ]; then
@@ -1092,12 +1088,12 @@ $word"
 				fi		
 				if [ "$aux" ]; then
 					printf "%-39s %25s\n" \
-					document $(basename $doc) "wordcount" $tokencount "fl-tokens (uncons.)" $fl_tokens "fl-density $option"  $fl_density "fl-types (uncons.)" $fl_types_unconsolidated >> $log_name
+					document $(basename $doc) "wordcount" $tokencount "fl-tokens (unconsolidated)" $fl_tokens "fl-density $option"  $fl_density "fl-types (unconsolidated)" $fl_types_unconsolidated >> $log_name
 					echo -e "$fl_density,$log_name"
 				else
 					echo "================================================================="
 					printf "%-39s %25s\n" \
-						document $(basename $doc) "wordcount" $tokencount "fl-tokens" $fl_tokens "fl-density $option"  $fl_density "fl-types (uncons.)" $fl_types_unconsolidated
+						document $(basename $doc) "wordcount" $tokencount "fl-tokens" $fl_tokens "fl-density $option"  $fl_density "fl-types (unconsolidated)" $fl_types_unconsolidated
 				fi
 			# if based on consolidated number of word tokens:
 			else
@@ -1118,20 +1114,23 @@ $word"
 				fi
 				if [ "$aux" ]; then
 					printf "%-49s %25s\n" \
-					document $(basename $doc) "wordcount" $tokencount "fl-word tokens (unconsolidated)" $fl_word_tokens_unconsolidated "fl-density (based on unconsolid. fl-word tokens)" $(echo "scale=6; $fl_word_tokens_unconsolidated / $tokencount" | bc) "fl-word tokens (consolidated)" $fl_word_tokens_consolidated "fl-density (based on consolid. fl-word tokens)" $fl_density "fl-types (unconsolidated)" $fl_types_unconsolidated "fl-tokens (unconsolidated)" $fl_tokens_unconsolidated "TTR (unconsolidated)" $TTR_uncons "fl-types (consolidated)" $fl_types_consolidated "fl-tokens (consolidated)" $fl_tokens_consolidated "TTR (consolidated)" $TTR_cons >> $log_name
+					document $(basename $doc) "wordcount" $tokencount "fl-word tokens (unconsolidated)" $fl_word_tokens_unconsolidated "fl-density (based on unconsolid. fl-word tokens)" $(echo "scale=6; $fl_word_tokens_unconsolidated / $tokencount" | bc) "fl-word tokens (consolidated)" $fl_word_tokens_consolidated "fl-density (based on consolidated fl-word tokens)" $fl_density "fl-types (unconsolidated)" $fl_types_unconsolidated "fl-tokens (unconsolidated)" $fl_tokens_unconsolidated "TTR (unconsolidated)" $TTR_uncons "fl-types (consolidated)" $fl_types_consolidated "fl-tokens (consolidated)" $fl_tokens_consolidated "TTR (consolidated)" $TTR_cons >> $log_name
 					echo -e "$fl_density,$log_name"
 				else
 					echo "==========================================================================="
 					printf "%-49s %25s\n" \
-					document $(basename $doc) "wordcount" $tokencount "fl-word tokens (unconsolidated)" $fl_word_tokens_unconsolidated "fl-density (based on unconsolid. fl-word tokens)" $(echo "scale=6; $fl_word_tokens_unconsolidated / $tokencount" | bc) "fl-word tokens (consolidated)" $fl_word_tokens_consolidated "fl-density (based on consolid. fl-word tokens)" $fl_density "fl-types (unconsolidated)" $fl_types_unconsolidated "fl-tokens (unconsolidated)" $fl_tokens_unconsolidated "TTR (unconsolidated)" $TTR_uncons "fl-types (consolidated)" $fl_types_consolidated "fl-tokens (consolidated)" $fl_tokens_consolidated "TTR (consolidated)" $TTR_cons
+					document $(basename $doc) "wordcount" $tokencount "fl-word tokens (unconsolidated)" $fl_word_tokens_unconsolidated "fl-density (based on unconsolidated fl-word tokens)" $(echo "scale=6; $fl_word_tokens_unconsolidated / $tokencount" | bc) "fl-word tokens (consolidated)" $fl_word_tokens_consolidated "fl-density (based on consolidated fl-word tokens)" $fl_density "fl-types (unconsolidated)" $fl_types_unconsolidated "fl-tokens (unconsolidated)" $fl_tokens_unconsolidated "TTR (unconsolidated)" $TTR_uncons "fl-types (consolidated)" $fl_types_consolidated "fl-tokens (consolidated)" $fl_tokens_consolidated "TTR (consolidated)" $TTR_cons
 				fi
 			fi
 			if [ -z "$aux" ]; then
 				echo "---------------------------------------------------------------------------"
 				echo "fl = formulaic language"
+				echo "fl-tokens = number of fl expression tokens"
 				echo "fl-word tokens = number of word tokens in fl expressions"
+				echo "fl-density = proportion of fl relative to text size"
 				echo "consolidated fl-word tokens = without duplicate counting of words"
 				echo "where expressions overlap"
+				echo "unconsolidated/unconsol. = overlaps between expressions remain unconsolidated"
 				echo "TTR = fl expression type-token ratio"
 				echo "==========================================================================="
 				echo

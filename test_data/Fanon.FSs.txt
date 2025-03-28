@@ -1,0 +1,41 @@
+==============================================================================
+List of items of formulaic language found in Fanon and their frequencies
+(these might overlap in the annotated text)
+produced by fl-density.sh, version 0.5.4 on Fri 28 Mar 2025 21:13:58 GMT
+FL-database used: fl_0.5.4/test_data/MSlist.dat
+------------------------------------------------------------------------------
+unconsolidated fl-tokens: 49
+unconsolidated fl-types:  31
+TTR (uncons.): .632
+==============================================================================
+ such as 	6
+ in order to 	5
+ rather than 	3
+ there is 	2
+ that is 	2
+ instead of 	2
+ concerned with 	2
+ based on 	2
+ as well 	2
+ a variety of 	2
+ was to 	1
+ so far 	1
+ said to be 	1
+ put it 	1
+ out of 	1
+ once again 	1
+ no matter 	1
+ no longer 	1
+ led by 	1
+ in turn 	1
+ in the interest of 	1
+ in other words 	1
+ in addition 	1
+ have to 	1
+ for the sake of 	1
+ by now 	1
+ at least 	1
+ as well as 	1
+ as such 	1
+ afford to 	1
+ a number of 	1

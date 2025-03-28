@@ -1,6 +1,13 @@
+release notes v. 0.5.5
+**********************
+- added more test data and updated README.md to document them
+- improved consistency across BSD and GNU/Linux platforms
+
+
+
+
 release notes v. 0.5.4
 **********************
-
 - replaced egrep with grep -E commands to avoid unnecessary warnings
 - install.sh: changed install directory to /usr/local/bin rather than $HOME/bin
 - updated README file, including update to installation and operation instructions
