@@ -70,15 +70,13 @@ NOTE:         This script is a wrapper for fl-density.sh; to obtain more
 # define add_windows_returns function
 #######################
 add_windows_returns ( ) {
-sed 's/$/
-/' "$1"
+sed 's/$/\r/' "$1"
 }
 #######################
 # define remove_windows_returns function
 #######################
 remove_windows_returns ( ) {
-sed 's/
-//' "$1"
+sed 's/\r//' "$1"
 }
 #######################
 # define splash function

@@ -397,15 +397,13 @@ fi
 # define add_windows_returns function
 #######################
 add_windows_returns ( ) {
-sed 's/$/
-/' "$1"
+sed 's/$/\r/' "$1"
 }
 #######################
 # define remove_windows_returns function
 #######################
 remove_windows_returns ( ) {
-sed 's/
-//' "$1"
+sed 's/\r//' "$1"
 }
 ############# END DEFINING FUNCTIONS ##################
 # analyse options
